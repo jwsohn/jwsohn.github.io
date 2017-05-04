@@ -1,2 +1,3 @@
 # jwsohn.github.io
-Blog testing 
+jwsohn's blog
+
