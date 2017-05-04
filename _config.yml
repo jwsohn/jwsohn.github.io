@@ -9,7 +9,7 @@
 title: jwsohn's blog
 email: jwsohn00@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog.
+  A blog for programming, music, arts, and life
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jwsohn.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
