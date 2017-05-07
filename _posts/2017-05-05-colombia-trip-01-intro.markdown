@@ -7,7 +7,7 @@ categories: 여행
 
 # 아재셋의 콜롬비아 여행기
 
-![콜롬비아 국기]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/flag-of-colombia.svg)
+![콜롬비아 국기]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/flag-of-colombia.png)
 
 ![Cartagena 거리]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/cartagena-street.jpg)
 
@@ -82,7 +82,7 @@ categories: 여행
 
 ![콜롬비아 아가씨들]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/colombia-girls-1.jpg)
 
-![콜롬비아 등짝녀]({{ site.url }}/assets/img/2017-05-05-colombia-trip-01-intro/colombia-등짝녀.jpg)
+![콜롬비아 등짝녀]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/colombia-등짝녀.jpg)
 
 ![콜롬비아 아가씨들]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/colombia-girls-3.jpg)
 
