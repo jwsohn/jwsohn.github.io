@@ -65,7 +65,7 @@ categories: 여행
 바다가 아름답고 근처의 Islas del Rosario (번역하면 장미군도 정도가 되려나요?)가
 경치 좋기로 유명합니다.
 
-[사진 첨부]
+![카르타헤냐 저녁 거리풍경](/assets/2017-05-07-colombia-trip-02-getting-there/cartagena-street.jpg)
 
 메데진은 아아 아재들의 꿈의 도시. 중남미에서 미인들이 가장 많이 산다는.
 우크라이나였던가요 거기서는 김태희가 밭을 간다면 이곳 메데진에서는 수지가
