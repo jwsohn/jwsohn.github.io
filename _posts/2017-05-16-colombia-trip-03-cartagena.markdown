@@ -98,7 +98,7 @@ Old town에 숙소를 잡을 것이냐 뉴타운 보카그란데에 숙소를 �
 퓨전이기는 하지만 저를 플라멩코의 세계로 소개시켜 준 음악을 잠깐 들어보기로 
 하지요.
 
-![Inside me](https://youtu.be/23zGI-rnGxk)
+[![Inside me](http://img.youtube.com/vi/23zGI-rnGxk/0.jpg)](https://youtu.be/23zGI-rnGxk)
 
 
 new town
