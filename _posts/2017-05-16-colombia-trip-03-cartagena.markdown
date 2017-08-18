@@ -118,9 +118,9 @@ Old town에 숙소를 잡을 것이냐 뉴타운 보카그란데에 숙소를 �
 플라멩코 라이브, 나름 여독에 지친 아재셋 나그네들에게 얼마나 멋진 카르타헤냐의
 밤이었겠습니까.
 
-![El Bulardor de Sevilla](/assets/2017-05-16-colombia-trip-03-cartagena/el-bulardor.jpg)
+![El Burlador de Sevilla](/assets/2017-05-16-colombia-trip-03-cartagena/el-burlador.jpg)
 
-이 음식점은 El Bulardor de Sevilla (http://elburladordesevilla.com)라는
+이 음식점은 El Burlador de Sevilla (http://elburladordesevilla.com)라는
 곳인데요. 도심 가운데 Santo Domingo 광장 바로 근처에 있습니다. 고급 음식점이라
 저녁 식사를 느긋하게 하셔도 되고 간단한 안주와 함께 술을 드셔도 좋습니다.
 플라멩코 공연도 자주 있습니다. 아재들은 좋다고 신나서 두타임을 앉아서 듣고
@@ -128,7 +128,8 @@ Old town에 숙소를 잡을 것이냐 뉴타운 보카그란데에 숙소를 �
 
 마침 동영상 클립이 짧게나마 남아 있네요. 휴대폰으로 찍어서 화질 음질 기대
 이하입니다만 한번 구경해 보시길. 밴드 리더를 하시는 아주머니께서 아주 강렬한
-느낌입니다. 
+느낌입니다. 그나저나 어쩌다 음식점의 이름이 "세비야의 난봉꾼", 혹은 돈 후안이
+되었는지 아재들은 도통 감이란게 없겠습니다. 
 
 [동영상 첨부]
 
