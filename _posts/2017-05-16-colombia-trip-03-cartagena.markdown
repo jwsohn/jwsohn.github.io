@@ -217,7 +217,7 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 물도 귀하고 메뉴도 변변하지 않을 것 같았는데 나름 맛있는 식사에 서빙하는
 할아버지가 농담을 곁들여가며 친근하게 해 주셔서 즐겁게 시간을 보냈습니다.
 
-![Reptile](../assets/2017-05-16-colombia-trip-03-cartagena/reptile.jpg)
+![Lunch at island](../assets/2017-05-16-colombia-trip-03-cartagena/lunch-at-island.jpg)
 
 이날은 오후 늦게 바람이 강해진다는 일기 예보가 나오는 바람에 오후 두시쯤에
 돌아가는 배를 타고 섬을 뜰 수 밖에 없었습니다. 이미 아침과는 달리 바람이
