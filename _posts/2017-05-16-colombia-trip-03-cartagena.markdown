@@ -2,7 +2,7 @@
 layout: post
 title:  ""
 date:   2017-05-17 18:00:00 -0500
-published: yes
+published: true
 categories: 여행
 ---
 
