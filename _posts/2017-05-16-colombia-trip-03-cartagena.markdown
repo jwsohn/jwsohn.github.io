@@ -131,7 +131,7 @@ Old town에 숙소를 잡을 것이냐 뉴타운 보카그란데에 숙소를 �
 느낌입니다. 그나저나 어쩌다 음식점의 이름이 "세비야의 난봉꾼", 혹은 돈 후안이
 되었는지 아재들 머리로는 도통 알길이 없습니다.
 
-[![El Burlador](https://img.youtube.com/vi/iXlA7yk2otA/0.jpg)](https://www.youtube.com/watch?v=iXlA7yk2otA)
+[![El Burlador](https://img.youtube.com/vi/dHkLAV7PyXA/0.jpg)](https://www.youtube.com/watch?v=dHkLAV7PyXA)
 [![El Burlador](https://img.youtube.com/vi/v5R75W7b3ok/0.jpg)](https://www.youtube.com/watch?v=v5R75W7b3ok)
 
 덤으로 카르타헤냐 밤거리 풍경 사진을 몇개 붙여 봅니다.
