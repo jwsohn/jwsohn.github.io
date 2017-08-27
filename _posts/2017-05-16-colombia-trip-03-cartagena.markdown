@@ -188,8 +188,8 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 
 [![Aquarium entrance](https://img.youtube.com/vi/YNaxvhVJKe8/0.jpg)](https://www.youtube.com/watch?v=YNaxvhVJKe8)
 
-[![Turtles](https://img.youtube.com/vi/quxJPFHeuks/0.jpg)](https://www.youtube.com/watch?v=quxJPFHeuks)
-
+[![Turtles](https://img.youtube.com/vi/pYE036vgyKE/0.jpg)](https://www.youtube.com/watch?v=pYE036vgyKE)
+https://youtu.be/pYE036vgyKE
 [![Sharks](https://img.youtube.com/vi/iXlA7yk2otA/0.jpg)](https://www.youtube.com/watch?v=iXlA7yk2otA)
 
 수족관이 야외에 있다 보니까 생각지도 못했던 불청객들이 등장하셨는데요. 아마 이
@@ -208,7 +208,7 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 진화가 덜 된 고생대의 화석같은 저지능생물이다고 교육받은 이 아재의 선입관을
 완벽히 깨버렸습니다.
 
-[![Sharks show](https://img.youtube.com/vi/iXlA7yk2otA/0.jpg)](https://www.youtube.com/watch?v=iXlA7yk2otA)
+[![Sharks show](https://img.youtube.com/vi/quxJPFHeuks/0.jpg)](https://www.youtube.com/watch?v=quxJPFHeuks)
 
 상어도 이정도 쇼를 해내는 수족관에서 머리 좋은 돌고래가 가만히 있을 수
 있겠습니까. 돌고래 쇼 역시 구경해 보시기 바랍니다. 아, 돌고래 조련사 아가씨
