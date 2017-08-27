@@ -131,6 +131,7 @@ Old town에 숙소를 잡을 것이냐 뉴타운 보카그란데에 숙소를 �
 느낌입니다. 그나저나 어쩌다 음식점의 이름이 "세비야의 난봉꾼", 혹은 돈 후안이
 되었는지 아재들 머리로는 도통 알길이 없습니다.
 
+[![El Burlador](https://img.youtube.com/vi/iXlA7yk2otA/0.jpg)](https://www.youtube.com/watch?v=iXlA7yk2otA)
 [![El Burlador](https://img.youtube.com/vi/v5R75W7b3ok/0.jpg)](https://www.youtube.com/watch?v=v5R75W7b3ok)
 
 덤으로 카르타헤냐 밤거리 풍경 사진을 몇개 붙여 봅니다.
@@ -183,13 +184,13 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 ![Aquarium](../assets/2017-05-16-colombia-trip-03-cartagena/aquarium-3.jpg)
 ![Aquarium](../assets/2017-05-16-colombia-trip-03-cartagena/aquarium-4.jpg)
 
-마침 동영상 클립도 남아 있네요. 수족관 입구와 바다거북, 상어의 모습입니다.
+마침 동영상 클립도 남아 있네요. 수족관 입구와 바다거북, 상어(?)의 모습입니다.
 
 [![Aquarium entrance](https://img.youtube.com/vi/YNaxvhVJKe8/0.jpg)](https://www.youtube.com/watch?v=YNaxvhVJKe8)
 
 [![Turtles](https://img.youtube.com/vi/quxJPFHeuks/0.jpg)](https://www.youtube.com/watch?v=quxJPFHeuks)
 
-[![Sharks](https://img.youtube.com/vi/pYE036vgyKE/0.jpg)](https://www.youtube.com/watch?v=pYE036vgyKE)
+[![Sharks](https://img.youtube.com/vi/iXlA7yk2otA/0.jpg)](https://www.youtube.com/watch?v=iXlA7yk2otA)
 
 수족관이 야외에 있다 보니까 생각지도 못했던 불청객들이 등장하셨는데요. 아마 이
 수족관에 제멋대로 터를 잡으신 분들로 추측됩니다. 이들은 아래 두 분 되겠는데요.
@@ -207,7 +208,7 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 진화가 덜 된 고생대의 화석같은 저지능생물이다고 교육받은 이 아재의 선입관을
 완벽히 깨버렸습니다.
 
-[![Sharks show](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+[![Sharks show](https://img.youtube.com/vi/iXlA7yk2otA/0.jpg)](https://www.youtube.com/watch?v=iXlA7yk2otA)
 
 상어도 이정도 쇼를 해내는 수족관에서 머리 좋은 돌고래가 가만히 있을 수
 있겠습니까. 돌고래 쇼 역시 구경해 보시기 바랍니다. 아, 돌고래 조련사 아가씨
