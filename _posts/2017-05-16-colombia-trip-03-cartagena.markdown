@@ -20,7 +20,7 @@ categories: 여행
 위치도 빼어나서 과거 스페인 식민지 시절의 유적들이 많이 남아
 있습니다. 여기서 잠깐 카르타헤냐의 지도를 보도록 하지요.
 
-![카르타헤냐 지도](../assets/2017-05-16-colombia-trip-03-cartagena/cartagena-map.png)
+![카르타헤냐 지도](/assets/2017-05-16-colombia-trip-03-cartagena/cartagena-map.png)
 
 어떻습니까? 거의 천혜의 항구 입지를 갖추고 있다고 보면 되겠습니다. 우선,
 지형이 자연적으로 항구 주위의 방파제 역할을 했을 것임을 추측해볼 수 있습니다.
@@ -110,7 +110,7 @@ Old town에 숙소를 잡을 것이냐 뉴타운 보카그란데에 숙소를 �
 앞에서 유창한 영어와 아름다운 미모로 아재들을 낚으신(!) 이분의 공로가
 크겠습니다. 
 
-![La senorita](../assets/2017-05-16-colombia-trip-03-cartagena/la-senorita.jpg)
+![La senorita](/assets/2017-05-16-colombia-trip-03-cartagena/la-senorita.jpg)
 
 그런데 중요한 것은 이곳 음식점의 플라멩코 공연이 수준급이라는 점입니다. 솔직히
 이런 외진(?) 관광지에서 이렇게 멋진 플라멩코 음악을 듣게 되었다는 것은 정말
@@ -118,7 +118,7 @@ Old town에 숙소를 잡을 것이냐 뉴타운 보카그란데에 숙소를 �
 플라멩코 라이브, 나름 여독에 지친 아재셋 나그네들에게 얼마나 멋진 카르타헤냐의
 밤이었겠습니까.
 
-![El Burlador de Sevilla](../assets/2017-05-16-colombia-trip-03-cartagena/el-burlador.jpg)
+![El Burlador de Sevilla](/assets/2017-05-16-colombia-trip-03-cartagena/el-burlador.jpg)
 
 이 멋진 음식점은 El Burlador de Sevilla (http://elburladordesevilla.com) 라는
 곳인데요. 도심 가운데 Santo Domingo 광장 바로 근처에 있습니다. 고급 음식점이라
@@ -136,12 +136,12 @@ Old town에 숙소를 잡을 것이냐 뉴타운 보카그란데에 숙소를 �
 
 덤으로 카르타헤냐 밤거리 풍경 사진을 몇개 붙여 봅니다.
 
-![Cartagena-coach](../assets/2017-05-16-colombia-trip-03-cartagena/coach.jpg)
-![Cartagena-1](../assets/2017-05-16-colombia-trip-03-cartagena/downtown-1.jpg)
-![Cartagena-2](../assets/2017-05-16-colombia-trip-03-cartagena/downtown-2.jpg)
-![Cartagena-3](../assets/2017-05-16-colombia-trip-03-cartagena/downtown-3.jpg)
-![Cartagena-4](../assets/2017-05-16-colombia-trip-03-cartagena/downtown-4.jpg)
-![Cartagena-5](../assets/2017-05-16-colombia-trip-03-cartagena/downtown-5.jpg)
+![Cartagena-coach](/assets/2017-05-16-colombia-trip-03-cartagena/coach.jpg)
+![Cartagena-1](/assets/2017-05-16-colombia-trip-03-cartagena/downtown-1.jpg)
+![Cartagena-2](/assets/2017-05-16-colombia-trip-03-cartagena/downtown-2.jpg)
+![Cartagena-3](/assets/2017-05-16-colombia-trip-03-cartagena/downtown-3.jpg)
+![Cartagena-4](/assets/2017-05-16-colombia-trip-03-cartagena/downtown-4.jpg)
+![Cartagena-5](/assets/2017-05-16-colombia-trip-03-cartagena/downtown-5.jpg)
 
 ## Isla del Rosario 
 
@@ -164,8 +164,8 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 시원한 바다바람을 한참 가르고 Rosario 섬에 도착하면 풍경이 이렇게 바뀝니다. 바다 색깔부터가
 달라지겠습니다.
 
-![Islas del Rosario 1](../assets/2017-05-16-colombia-trip-03-cartagena/islas-del-rosario-1.jpg)
-![Islas del Rosario 2](../assets/2017-05-16-colombia-trip-03-cartagena/islas-del-rosario-2.jpg)
+![Islas del Rosario 1](/assets/2017-05-16-colombia-trip-03-cartagena/islas-del-rosario-1.jpg)
+![Islas del Rosario 2](/assets/2017-05-16-colombia-trip-03-cartagena/islas-del-rosario-2.jpg)
 
 섬에서는 다양한 구경을 할 수 있습니다. 해변가에서 노닥거려도 되고, 조그만
 모래사장 해변가에서 해수욕을 즐겨도 됩니다. 산호초를 구경하는 snorkeling 역시
@@ -179,10 +179,10 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 우선 수족관 풍경이 빼어나며 바다거북, 상어 등등의 어종을 맑은 바닷물 아래로
 비추어 보는 재미가 쏠쏠하겠습니다.
 
-![Aquarium](../assets/2017-05-16-colombia-trip-03-cartagena/aquarium-1.jpg)
-![Aquarium](../assets/2017-05-16-colombia-trip-03-cartagena/aquarium-2.jpg)
-![Aquarium](../assets/2017-05-16-colombia-trip-03-cartagena/aquarium-3.jpg)
-![Aquarium](../assets/2017-05-16-colombia-trip-03-cartagena/aquarium-4.jpg)
+![Aquarium](/assets/2017-05-16-colombia-trip-03-cartagena/aquarium-1.jpg)
+![Aquarium](/assets/2017-05-16-colombia-trip-03-cartagena/aquarium-2.jpg)
+![Aquarium](/assets/2017-05-16-colombia-trip-03-cartagena/aquarium-3.jpg)
+![Aquarium](/assets/2017-05-16-colombia-trip-03-cartagena/aquarium-4.jpg)
 
 마침 동영상 클립도 남아 있네요. 수족관 입구와 바다거북, 상어(?)의 모습입니다.
 
@@ -198,7 +198,7 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 바람직한 생활의 모범을 보여주고 계셨습니다. ㅋㅋㅋ 참고로 하얀 펠리컨(?) 분께서는
 돌고래 쇼에도 찬조 출연 하시겠습니다.
 
-![Unwanted](../assets/2017-05-16-colombia-trip-03-cartagena/unwanted.jpg)
+![Unwanted](/assets/2017-05-16-colombia-trip-03-cartagena/unwanted.jpg)
 
 [![Uninvited](https://img.youtube.com/vi/UpGk2fQ-7QM/0.jpg)](https://www.youtube.com/watch?v=UpGk2fQ-7QM)
 
@@ -219,14 +219,14 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 
 [![Dolphin show 2](https://img.youtube.com/vi/jEkQYJjOWms/0.jpg)](https://www.youtube.com/watch?v=jEkQYJjOWms)
 
-![Dolphin trainer](../assets/2017-05-16-colombia-trip-03-cartagena/dolphin-trainer.jpg)
+![Dolphin trainer](/assets/2017-05-16-colombia-trip-03-cartagena/dolphin-trainer.jpg)
 
 그렇게 아재들은 양어장, 아니 야외 수족관 구경을 마치고 Rosario 섬으로
 귀환했습니다. 때가 마침 점심이라 패키지에 포함된 식사를 먹었습니다. 섬이라
 물도 귀하고 메뉴도 변변하지 않을 것 같았는데 나름 맛있는 식사에 서빙하는
 할아버지가 농담을 곁들여가며 친근하게 해 주셔서 즐겁게 시간을 보냈습니다.
 
-![Lunch at island](../assets/2017-05-16-colombia-trip-03-cartagena/lunch-at-island.jpg)
+![Lunch at island](/assets/2017-05-16-colombia-trip-03-cartagena/lunch-at-island.jpg)
 
 이날은 오후 늦게 바람이 강해진다는 일기 예보가 나오는 바람에 예정과는 달리
 일찍 오후 두시쯤에 돌아가는 배를 타고 섬을 뜰 수 밖에 없었습니다. 돌아갈 때는
