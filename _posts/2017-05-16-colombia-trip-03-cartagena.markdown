@@ -98,7 +98,7 @@ Old town에 숙소를 잡을 것이냐 뉴타운 보카그란데에 숙소를 �
 퓨전이기는 하지만 저를 플라멩코의 세계로 소개시켜 준 음악을 잠깐 들어보기로 
 하지요.
 
-[![Inside me](http://img.youtube.com/vi/23zGI-rnGxk/0.jpg)](https://youtu.be/23zGI-rnGxk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/23zGI-rnGxk" frameborder="0" allowfullscreen></iframe>
 
 플라멩코는 전체적으로 비트가 빠르고 타악기의 엇박자 느낌 (syncopation)이
 강렬하며 노래하는 목소리가 애절한 느낌입니다. 이렇다보니 재즈나 즉흥연주의
@@ -120,7 +120,7 @@ Old town에 숙소를 잡을 것이냐 뉴타운 보카그란데에 숙소를 �
 
 ![El Burlador de Sevilla](../assets/2017-05-16-colombia-trip-03-cartagena/el-burlador.jpg)
 
-이 멋진 음식점은 El Burlador de Sevilla (http://elburladordesevilla.com)라는
+이 멋진 음식점은 El Burlador de Sevilla (http://elburladordesevilla.com) 라는
 곳인데요. 도심 가운데 Santo Domingo 광장 바로 근처에 있습니다. 고급 음식점이라
 저녁 식사를 느긋하게 하셔도 되고 간단한 안주와 함께 술을 드셔도 좋습니다.
 플라멩코 공연도 자주 있습니다. 아재들은 좋다고 신나서 두타임을 앉아서 듣고
@@ -131,10 +131,11 @@ Old town에 숙소를 잡을 것이냐 뉴타운 보카그란데에 숙소를 �
 느낌입니다. 그나저나 어쩌다 음식점의 이름이 "세비야의 난봉꾼", 혹은 돈 후안이
 되었는지 아재들 머리로는 도통 알길이 없습니다.
 
-[동영상 첨부]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v5R75W7b3ok" frameborder="0" allowfullscreen></iframe>
 
 덤으로 카르타헤냐 밤거리 풍경 사진을 몇개 붙여 봅니다.
 
+![Cartagena-coach](../assets/2017-05-16-colombia-trip-03-cartagena/coach.jpg)
 ![Cartagena-1](../assets/2017-05-16-colombia-trip-03-cartagena/downtown-1.jpg)
 ![Cartagena-2](../assets/2017-05-16-colombia-trip-03-cartagena/downtown-2.jpg)
 ![Cartagena-3](../assets/2017-05-16-colombia-trip-03-cartagena/downtown-3.jpg)
@@ -157,7 +158,7 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 일단 Rosario 섬으로 출발하는 배편에서 찍어본 카르타헤냐 항구 풍경부터 감상해
 보겠습니다.
 
-(동영상 첨부)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tNKp8rQbZkk" frameborder="0" allowfullscreen></iframe>
 
 시원한 바다바람을 한참 가르고 Rosario 섬에 도착하면 풍경이 이렇게 바뀝니다. 바다 색깔부터가
 달라지겠습니다.
@@ -184,18 +185,21 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 
 마침 동영상 클립도 남아 있네요. 수족관 입구와 바다거북, 상어의 모습입니다.
 
-(수족관 입구)
-(상어 동영상)
-(바다거북 동영상)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YNaxvhVJKe8" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/quxJPFHeuks" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pYE036vgyKE" frameborder="0" allowfullscreen></iframe>
 
 수족관이 야외에 있다 보니까 생각지도 못했던 불청객들이 등장하셨는데요. 아마 이
 수족관에 제멋대로 터를 잡으신 분들로 추측됩니다. 이들은 아래 두 분 되겠는데요.
-관광객들에게도 적절한 친화력을 보여주시면서 물고기도 얻어 먹고 인기도 누리는
+관광객들에게 적절한 친화력을 보여주시면서 물고기도 얻어 먹고 인기도 누리는
 바람직한 생활의 모범을 보여주고 계셨습니다. ㅋㅋㅋ 참고로 하얀 펠리컨(?) 분께서는
-돌고래 쇼에 찬조 출연 하시겠습니다.
+돌고래 쇼에도 찬조 출연 하시겠습니다.
 
 ![Unwanted](../assets/2017-05-16-colombia-trip-03-cartagena/unwanted.jpg)
-(uninvited 동영상)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UpGk2fQ-7QM" frameborder="0" allowfullscreen></iframe>
 
 그리고 아래 동영상이 이곳의 명물, 무려 상어쇼가 되겠습니다. 사육사 아저씨가
 어떻게 훈련을 시켰는지 모르겠는데 먹이를 주는 신호에 맞춰 꼬리를 흔들어대는 저
@@ -203,13 +207,16 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 진화가 덜 된 고생대의 화석같은 저지능생물이다고 교육받은 이 아재의 선입관을
 완벽히 깨버렸습니다.
 
-(상어쇼 동영상)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/quxJPFHeuks" frameborder="0" allowfullscreen></iframe>
 
 상어도 이정도 쇼를 해내는 수족관에서 머리 좋은 돌고래가 가만히 있을 수
 있겠습니까. 돌고래 쇼 역시 구경해 보시기 바랍니다. 아, 돌고래 조련사 아가씨
 역시 무지 미인이셨습니다. 콜롬비아에서는 김태희가 돌고래도 데리고 노시더라는. 
 
-(돌고래쇼 동영상)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/no4scE6xTIU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jEkQYJjOWms" frameborder="0" allowfullscreen></iframe>
+
 ![Dolphin trainer](../assets/2017-05-16-colombia-trip-03-cartagena/dolphin-trainer.jpg)
 
 그렇게 아재들은 양어장, 아니 야외 수족관 구경을 마치고 Rosario 섬으로
@@ -219,22 +226,22 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 
 ![Lunch at island](../assets/2017-05-16-colombia-trip-03-cartagena/lunch-at-island.jpg)
 
-이날은 오후 늦게 바람이 강해진다는 일기 예보가 나오는 바람에 오후 두시쯤에
-돌아가는 배를 타고 섬을 뜰 수 밖에 없었습니다. 이미 아침과는 달리 바람이
-제법 있어서 아재들은 갈 때도 구경 좀 하겠다고 전망 좋은데 앉았다가 바닷물을
-홀딱 뒤집어 써야 했는데요.
+이날은 오후 늦게 바람이 강해진다는 일기 예보가 나오는 바람에 예정과는 달리
+일찍 오후 두시쯤에 돌아가는 배를 타고 섬을 뜰 수 밖에 없었습니다. 돌아갈 때는
+이미 아침과는 달리 바람이 제법 있어서 아재들은 갈 때도 구경 좀 하겠다고 전망
+좋은데 앉았다가 바닷물을 홀딱 뒤집어 써야 했는데요.
 
-날씨가 좋은 날은 섬에서 바다를 더 즐기는 것이 좋지 않을까 싶습니다. 말 그대로
+날씨가 좋았다면 섬에서 바다를 더 즐기는 것이 좋았지 않았을까 싶습니다. 말 그대로
 하얀 모래의 백사장에서 해수욕도 좋구요. 해수욕보다는 장비를 준비해서
 snorkeling을 추천합니다. 한국에서는 구경하기 어려운 바닷속 산호를 구경할 수
 있으니까요.
 
-그리고 이곳은 열대지방인 까닭에 특이한 새나 도마뱀들을 많이 볼 수 있습니다.
+그리고 이곳은 열대지방인 까닭에 특이한 새나 도마뱀들을 많이 볼 수 있었습니다.
 의외로 작은 도마뱀들은 마치 뭐랄까 커다란 메뚜기 같이 귀여운 느낌인데요.
 가끔은 큰 놈들도 구경할 수 있습니다. 마침 커다란 도마뱀 한 분 동영상이 남아
 있으니 구경하시기 바랍니다.
 
-(도마뱀 동영상)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EbOaz5hJdUE" frameborder="0" allowfullscreen></iframe>
 
 한편 돌아오는 배에서 바닷물에 쫄딱 젖은 아재들은 우선 호텔로 복귀, 탈의 및
 샤워로 재정비 과정을 거쳤습니다. 체력 딸리는 아재들이지만 어쩌겠습니까.
@@ -244,19 +251,3 @@ snorkeling을 추천합니다. 한국에서는 구경하기 어려운 바닷속 
 살사 강습을 받고 다시 flamenco 공연에 환호한 다음 카르타헤냐의 나이트 라이프를
 본격적으로 탐험하기 시작합니다. 그 얘기는 다음 편에 계속 적어 보기로 하지요.
 
-old town
-  * Flamenco
-    - Bulardor? 
-  * salsa 
-  * night clubs
-
-castillo
-
-isla del Rosario
-  * islas
-  * Aquarium
-
-
-### 참고:
-  * 스페인어 읽기
-  * 택시타기. 환전
