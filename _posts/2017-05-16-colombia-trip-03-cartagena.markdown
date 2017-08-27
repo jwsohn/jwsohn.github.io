@@ -2,7 +2,7 @@
 layout: post
 title:  ""
 date:   2017-05-17 18:00:00 -0500
-published: false
+published: yes
 categories: 여행
 ---
 
@@ -189,7 +189,7 @@ concierge 분을 통해서 당일 투어 프로그램을 구입했구요.  여�
 [![Aquarium entrance](https://img.youtube.com/vi/YNaxvhVJKe8/0.jpg)](https://www.youtube.com/watch?v=YNaxvhVJKe8)
 
 [![Turtles](https://img.youtube.com/vi/pYE036vgyKE/0.jpg)](https://www.youtube.com/watch?v=pYE036vgyKE)
-https://youtu.be/pYE036vgyKE
+
 [![Sharks](https://img.youtube.com/vi/iXlA7yk2otA/0.jpg)](https://www.youtube.com/watch?v=iXlA7yk2otA)
 
 수족관이 야외에 있다 보니까 생각지도 못했던 불청객들이 등장하셨는데요. 아마 이
@@ -211,8 +211,9 @@ https://youtu.be/pYE036vgyKE
 [![Sharks show](https://img.youtube.com/vi/quxJPFHeuks/0.jpg)](https://www.youtube.com/watch?v=quxJPFHeuks)
 
 상어도 이정도 쇼를 해내는 수족관에서 머리 좋은 돌고래가 가만히 있을 수
-있겠습니까. 돌고래 쇼 역시 구경해 보시기 바랍니다. 아, 돌고래 조련사 아가씨
-역시 무지 미인이셨습니다. 콜롬비아에서는 김태희가 돌고래도 데리고 노시더라는. 
+있겠습니까. 돌고래가 아디오스 하시는 돌고래 쇼 역시 구경해 보시기 바랍니다.
+아, 돌고래 조련사 아가씨 역시 무지 미인이셨습니다. 콜롬비아에서는 김태희가
+돌고래도 데리고 노시더라는. 
 
 [![Dolphin show](https://img.youtube.com/vi/no4scE6xTIU/0.jpg)](https://www.youtube.com/watch?v=no4scE6xTIU)
 
@@ -238,17 +239,17 @@ snorkeling을 추천합니다. 한국에서는 구경하기 어려운 바닷속 
 있으니까요.
 
 그리고 이곳은 열대지방인 까닭에 특이한 새나 도마뱀들을 많이 볼 수 있었습니다.
-의외로 작은 도마뱀들은 마치 뭐랄까 커다란 메뚜기 같이 귀여운 느낌인데요.
+작은 도마뱀들은 마치 뭐랄까 커다란 메뚜기 같이 의외로 귀여운 느낌인데요.
 가끔은 큰 놈들도 구경할 수 있습니다. 마침 커다란 도마뱀 한 분 동영상이 남아
 있으니 구경하시기 바랍니다.
 
-[![Sharks show](https://img.youtube.com/vi/EbOaz5hJdUE/0.jpg)](https://www.youtube.com/watch?v=EbOaz5hJdUE)
+[![Reptile](https://img.youtube.com/vi/EbOaz5hJdUE/0.jpg)](https://www.youtube.com/watch?v=EbOaz5hJdUE)
 
-한편 돌아오는 배에서 바닷물에 쫄딱 젖은 아재들은 우선 호텔로 복귀, 탈의 및
-샤워로 재정비 과정을 거쳤습니다. 체력 딸리는 아재들이지만 어쩌겠습니까.
+한편 돌아오는 배에서 몰아치는 파도에 쫄딱 젖은 아재들은 우선 호텔로 복귀, 탈의
+및 샤워로 재정비 과정을 거쳤습니다. 체력 딸리는 아재들이지만 어쩌겠습니까.
 힘들어도 구경은 해야. 에고. 
 
-재정비 후 아재들은 다시 이날 저녁의 카르타헤냐를 헤집고 다닙니다. 무려
+재정비 후 아재들은 다시 이 날 저녁의 카르타헤냐를 헤집고 다닙니다. 무려
 살사 강습을 받고 다시 flamenco 공연에 환호한 다음 카르타헤냐의 나이트 라이프를
 본격적으로 탐험하기 시작합니다. 그 얘기는 다음 편에 계속 적어 보기로 하지요.
 
