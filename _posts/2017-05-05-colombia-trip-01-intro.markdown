@@ -8,11 +8,11 @@ categories: 여행
 
 # 아재셋의 콜롬비아 여행기 1편
 
-![콜롬비아 국기]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/flag-of-colombia.png) 
+![콜롬비아 국기](/assets/2017-05-05-colombia-trip-01-intro/flag-of-colombia.png) 
 
-![Cartagena 거리]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/cartagena-street.jpg)
+![Cartagena 거리](/assets/2017-05-05-colombia-trip-01-intro/cartagena-street.jpg)
 
-![이름모를 문장식]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/cartagena-fish-gargoyle.jpg)
+![이름모를 문장식](/assets/2017-05-05-colombia-trip-01-intro/cartagena-fish-gargoyle.jpg)
 
 ## 들어가면서
 
@@ -81,11 +81,11 @@ categories: 여행
 셋이서 몰랐을 리가 없었지만 설마 했는데 일반인도 이렇게 미인일 수 있는 것인가.
 그것도 여자들 일행 셋이 다. 한마디로 감탄을 금할 수 없었지요. 
 
-![콜롬비아 아가씨들]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/colombia-girls-1.jpg)
+![콜롬비아 아가씨들](/assets/2017-05-05-colombia-trip-01-intro/colombia-girls-1.jpg)
 
-![콜롬비아 등짝녀]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/colombia-등짝녀.jpg)
+![콜롬비아 등짝녀](/assets/2017-05-05-colombia-trip-01-intro/colombia-등짝녀.jpg)
 
-![콜롬비아 아가씨들]({{ site.url }}/assets/2017-05-05-colombia-trip-01-intro/colombia-girls-3.jpg)
+![콜롬비아 아가씨들](/assets/2017-05-05-colombia-trip-01-intro/colombia-girls-3.jpg)
 
 그런데 콜롬비아 여행 계획의 단초는 이들 울트라 수퍼 섹시 콜롬비아 아가씨들이
 아닌 이들과 같이 일행이었던 콜롬비아 청년한테서 시작되었습니다. 이 친구는
