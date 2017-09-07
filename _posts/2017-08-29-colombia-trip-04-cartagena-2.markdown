@@ -120,8 +120,8 @@ Havana 말고 다른 클럽들도 문을 닫은 곳이 많았고 문을 열은 �
 ## Castillo San Felipe
 
 아쉬운 밤을 침대에서 뒤척이던 아재들은 다음날 아침 기분도 전환할 겸
-카르타헤냐의 방어 요새 펠리페 성을 보러 가기로 했습니다. 우선 무식한 성벽
-사진부터 봅시다.
+카르타헤냐의 방어 요새 펠리페 성을 보러 가기로 했습니다. 우선 일견
+무식해(?)보이는 성벽 사진부터 봅시다.
 
 ![Castillo San Felipe](/assets/2017-08-29-colombia-trip-04-cartagena-2/castillo.jpg)
 
@@ -135,7 +135,7 @@ Havana 말고 다른 클럽들도 문을 닫은 곳이 많았고 문을 열은 �
 ![Castillo inside](/assets/2017-08-29-colombia-trip-04-cartagena-2/castillo-inside.jpg)
 
 성 안쪽은 이런 좁은 통로를 통해서 이동합니다. 아마도 소총수들이 이동하던
-통로인 것 같습니다.
+통로인 것 같습니다. 
 
 ![Castillo tower](/assets/2017-08-29-colombia-trip-04-cartagena-2/castillo-tower.jpg)
 
@@ -145,7 +145,8 @@ Havana 말고 다른 클럽들도 문을 닫은 곳이 많았고 문을 열은 �
 
 대포는 이렇게 장착해놓고 쏜 것 같습니다. 사진에서는 잘 보이지 않는데 성벽이
 무지 두껍습니다. 저 조그만 틈으로 대포를 계속 발사하면 공격하는 입장에서는
-점령이 쉽지 않았을 것으로 추측됩니다.
+점령이 쉽지 않았을 것으로 추측됩니다. 
+
 
 [![Flamenco](https://img.youtube.com/vi/23zGI-rnGxk/0.jpg)](https://www.youtube.com/watch?v=23zGI-rnGxk)
 
