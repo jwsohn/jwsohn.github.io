@@ -172,7 +172,7 @@ Poblado는 관광지로도 유명한 곳이기 때문에 크게 걱정하실 필
 이미지를 통째 올립니다. 지도 왼쪽 위에 보이는 Andalucia 역과 Arvi 공원을 잇는 K
 노선이 케이블카로 운영됩니다. 노선 길이도 길고 케이블카 주위로 보이는 경치도 좋습니다. 
 개발 중인 Santo Domingo 곳곳의 모습도 볼 수 있구요. 또, 케이블카를 타고 가다보면 
-메데진의 분지 지형을 한눈에 들어오게 됩니다.
+메데진의 분지 지형이 한눈에 들어오게 됩니다.
 
 ![Medellin metro map](/assets/2017-09-16-colombia-trip-05-medellin/medellin-metro-map.jpg)
 
