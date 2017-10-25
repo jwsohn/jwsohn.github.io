@@ -6,7 +6,7 @@ date:   2017-05-05 01:26:00 -0500
 categories: 여행
 ---
 
-# 아재셋의 콜롬비아 여행기 1편
+# 아재셋의 콜롬비아 여행기 1편: 프롤로그
 
 ![콜롬비아 국기](/assets/2017-05-05-colombia-trip-01-intro/flag-of-colombia.png) 
 
