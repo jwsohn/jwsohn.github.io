@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "아재셋의 콜롬비아 여행기 2편"
+title:  "아재셋의 콜롬비아 여행기 2편: 여행 소개"
 date:   2017-05-07 01:26:00 -0500
 published: true
 categories: 여행

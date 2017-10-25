@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "아재셋의 콜롬비아 여행기 3편"
+title:  "아재셋의 콜롬비아 여행기 3편: 카르타헤냐 1"
 date:   2017-05-17 18:00:00 -0500
 published: true
 categories: 여행

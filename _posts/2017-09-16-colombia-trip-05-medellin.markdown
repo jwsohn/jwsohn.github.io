@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "아재셋의 콜롬비아 여행기 5편"
+title:  "아재셋의 콜롬비아 여행기 5편: 메데진 1"
 date:   2017-09-16 22:09:00 -0500
 published: yes
 categories: 여행
