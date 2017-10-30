@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "아재셋의 콜롬비아 여행기 5편: 메데진 2"
+title:  "아재 셋의 콜롬비아 여행기 5편: 메데진 2"
 date:   2017-10-27 22:29:00 -0500
 published: no
 categories: 여행
 ---
 
-# 아재셋의 콜롬비아 여행기 5편: 메데진 2
+# 아재 셋의 콜롬비아 여행기 5편: 메데진 2
 
 엉뚱하게 들릴 수도 있겠습니다만 본 아재가 지금까지 가 본 남미 여행지의
 분위기는 한국과 무척 닮았다는 느낌을 갖고 있습니다. 페루의 수도 리마 공항에
@@ -21,8 +21,7 @@ categories: 여행
 
 ![Medellin](/assets/2017-10-27-colombia-trip-06-medellin-2/medellin-view.jpg)
 
-
-Castillo
+Museo el Castillo
 
 Botero 광장
 
