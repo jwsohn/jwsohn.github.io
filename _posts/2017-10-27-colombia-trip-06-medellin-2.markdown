@@ -65,6 +65,12 @@ Museo el Castillo는 번역하면 성(城) 박물관 정도가 되겠군요. 뭐
 찍어온 사진들을 몇장 붙여 봅니다. 미녀 투어 가이드 아가씨와 같이 사진을 찍은
 우리의 아재 얼굴은 상대적으로 너무 시커매서 가려 보았습니다. 헐헐헐.
 
+![Castillo main entrance](/assets/2017-10-27-colombia-trip-06-medellin-2/castillo-main.jpg)
+![Furniture](/assets/2017-10-27-colombia-trip-06-medellin-2/castillo-furniture.jpg)
+![Garden view](/assets/2017-10-27-colombia-trip-06-medellin-2/castillo-garden.jpg)
+![Tower](/assets/2017-10-27-colombia-trip-06-medellin-2/castillo-tower.jpg)
+![Two towers](/assets/2017-10-27-colombia-trip-06-medellin-2/castillo-two-towers.jpg)
+
 ## Botero 광장
 
 뭐랄까 이곳은 한국으로 치면 서울시 전철 2호선 당산역이나 영등포역 앞 지하상가
