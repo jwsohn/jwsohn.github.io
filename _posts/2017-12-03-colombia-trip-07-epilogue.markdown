@@ -107,7 +107,7 @@ categories: 여행
 
 지금까지 긴 글 읽어 주신 여러분들께 감사드립니다.
 
-![Medellin flightview](/assets/2017-12-03-colombia-trip-07-epilogut/medellin-flightview.jpg)
+![Medellin flightview](/assets/2017-12-03-colombia-trip-07-epilogue/medellin-flightview.jpg)
 ![Sunset flightview](/assets/2017-12-03-colombia-trip-07-epilogue/sunset-flightview.jpg)
 ![Sunset flightview](/assets/2017-12-03-colombia-trip-07-epilogue/sunset-flightview-2.jpg)
 ![New York City flightview](/assets/2017-12-03-colombia-trip-07-epilogue/nyc-flightview.jpg)
