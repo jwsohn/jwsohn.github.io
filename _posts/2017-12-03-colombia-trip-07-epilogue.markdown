@@ -101,12 +101,12 @@ categories: 여행
 ## 다시 미국으로 
 
 그리하여 아재들은 짧지만 길었던 일주일간의 콜롬비아 여행을 잘 마치고 다시
-미국으로 귀환하였습니다. 갔다 온 기념으로 메데진 출발할 때 비행기에서 찍은
-사진과 뉴욕 JFK 공항 착륙 직전 찍은 사진을 몇장 올려 봅니다.
+미국으로 귀환하였습니다. 갔다 온 기념으로 뉴욕 JFK 공항 착륙 전 찍은 사진을
+몇장 올려 봅니다.
 
 지금까지 긴 글 읽어 주신 여러분들께 감사드립니다.
 
-![Medellin flightview](/assets/2017-12-03-colombia-trip-07-epilogue/medellin-flightview.jpg)
+![Miami flightview](/assets/2017-12-03-colombia-trip-07-epilogue/medellin-flightview.jpg)
 ![Sunset flightview](/assets/2017-12-03-colombia-trip-07-epilogue/sunset-flightview.jpg)
 ![Sunset flightview](/assets/2017-12-03-colombia-trip-07-epilogue/sunset-flightview-2.jpg)
 ![New York City flightview](/assets/2017-12-03-colombia-trip-07-epilogue/nyc-flightview.jpg)
