@@ -2,7 +2,7 @@
 layout: post
 title:  "아재 셋의 콜롬비아 여행기 6편: 에필로그"
 date:   2017-12-03 22:30:00 -0500
-published: no
+published: yes
 categories: 여행
 ---
 
