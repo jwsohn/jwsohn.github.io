@@ -29,9 +29,9 @@ categories: 여행
 
 Museo el Castillo
 
-Botero 광장
+## Botero 광장
 
-고급 식당?
+
 
 ## 참고: 
 
