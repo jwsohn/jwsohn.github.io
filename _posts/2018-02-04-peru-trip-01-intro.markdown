@@ -92,13 +92,13 @@ categories: 여행
 ### 쿠스코 (Cusco)
 
 ![Plaza des Armes](/assets/2018-02-04-peru-trip-01-intro/plaza-des-armes.jpg)
-![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cuscu-night-1.jpg)
-![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cuscu-night-2.jpg)
-![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cuscu-night-3.jpg)
+![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cusco-night-1.jpg)
+![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cusco-night-2.jpg)
+![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cusco-night-3.jpg)
 
 ### 와카치나(Huacachina) 오아시스, 사막
 ![Desert panorama](/assets/2018-02-04-peru-trip-01-intro/desert-pano.jpg)
-![Huacachina](/assets/2018-02-04-peru-trip-01-intro/hucacachina.jpg)
+![Huacachina](/assets/2018-02-04-peru-trip-01-intro/huacachina.jpg)
 ![Desert](/assets/2018-02-04-peru-trip-01-intro/desert-1.jpg)
 ![Desert](/assets/2018-02-04-peru-trip-01-intro/desert-2.jpg)
 
