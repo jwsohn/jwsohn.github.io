@@ -92,25 +92,69 @@ categories: 여행
 ### 쿠스코 (Cusco)
 
 ![Plaza des Armes](/assets/2018-02-04-peru-trip-01-intro/plaza-des-armes.jpg)
+
+쿠스코의 다운타운 중앙 광장인 Plaza des Armes에 세워져 있는 성당 건물입니다.
+
 ![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cusco-night-1.jpg)
 ![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cusco-night-2.jpg)
 ![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cusco-night-3.jpg)
 
+쿠스코는 야경이 참 아름답습니다. 시원한 바람을 느끼며 밤에 산책을 하다
+몇 장 찍어 봤습니다. 
+
 ### 와카치나(Huacachina) 오아시스, 사막
+
 ![Desert panorama](/assets/2018-02-04-peru-trip-01-intro/desert-pano.jpg)
+
+일단 파노라마 사진부터 갑니다. 
+
 ![Huacachina](/assets/2018-02-04-peru-trip-01-intro/huacachina.jpg)
+
+남미 유일의 오아시스인 와카치나(Huacachina)의 전경입니다. 작지만 아름다운
+타운입니다.
+
 ![Desert](/assets/2018-02-04-peru-trip-01-intro/desert-1.jpg)
+
+사막에서 버기카(Buggy car) 투어를 하다가 찍은 사진입니다. 콜롬비아에서 오신
+미녀들께서 찬조출연 해 주셨습니다. 
+
 ![Desert](/assets/2018-02-04-peru-trip-01-intro/desert-2.jpg)
+
+사막은 해가 질 때 모습이 시시각각으로 달라집니다. 해 질 즈음에 찍어본
+사진입니다.
 
 ### 마추픽추 (Machu Picchu)
 
 ![Machupicchu panorama](/assets/2018-02-04-peru-trip-01-intro/machupicchu-pano.jpg)
+
+마추픽추 파노라마 사진입니다. 
+
 ![Machupicchu entrance](/assets/2018-02-04-peru-trip-01-intro/machupicchu-entrance.jpg)
+
+마추픽추의 입구입니다. 생각보다 입구는 작고 초라한(?) 느낌입니다만 내부는
+그렇지 않습니다. 
+
 ![Machupicchu](/assets/2018-02-04-peru-trip-01-intro/machupicchu-1.jpg)
+
+소위 달력 샷이라고 불리는 마추픽추 전경입니다.
+
 ![Machupicchu](/assets/2018-02-04-peru-trip-01-intro/machupicchu-2.jpg)
+
+좀 더 가까이에서는 이렇게 보입니다.
+
 ![Machupicchu inside](/assets/2018-02-04-peru-trip-01-intro/machupicchu-inside.jpg)
+
+마추픽추 내부입니다. 
+
 ![Machupicchu stones](/assets/2018-02-04-peru-trip-01-intro/machupicchu-stones.jpg)
+
+잉카 문명이 거석을 쌓는 방법입니다. 돌 하나하나의 규모도 어마어마합니다만 저
+돌을 어떻게 아귀가 딱딱 맞도록 깎아서 결합시켰는지 그저 신기할 따름입니다.
+
 ![Waynapicchu](/assets/2018-02-04-peru-trip-01-intro/waynapicchu.jpg)
+
+옆 산봉우리에서 마추픽추를 바라본 전경입니다. 왼쪽 지그재그로 보이는 것이
+마추픽추로 올라가는 버스가 다니는 도로가 되겠습니다.
 
 ## 페루 여행기 구성
 
