@@ -2,7 +2,7 @@
 layout: post
 title:  "아재 셋의 페루 여행기 1 - 페루 여행 소개"
 date:   2017-12-03 22:30:00 -0500
-published: yes
+published: no
 categories: 여행
 ---
 
@@ -73,7 +73,7 @@ categories: 여행
 
 쿠스코에서 마추픽추로 가는 길에도 잉카 문명의 흔적을 많이 볼 수 있습니다.
 우선, 올란타이탐보(Ollantaytambo)에서도 마추픽추만큼 크지는 않지만 고대 잉카
-문명때 지어진 건축물 --- 아마도 이것 역시 신전이지 싶습니다 --- 을 볼 수
+문명때 지어진 건축물 --- 아마도 이것 역시 신전(神殿)이지 싶습니다 --- 을 볼 수
 있습니다. 그리고, 쿠스코에서 마추픽추까지 가는 길은 풍경이 참으로 아름답습니다.
 같은 얘기의 반복이지만, 안데스 산맥의 빼어난 산세는 어딜 가나 페루 여행객들의
 마음에 감동을 안겨줍니다.
@@ -89,6 +89,28 @@ categories: 여행
 얘기를 적다 보니까 이런저런 생각이 계속 떠오릅니다. 일단은 백문도 불여일견이니
 맛보기 사진으로 여러분들의 궁금증을 간단히라도 채워 보겠습니다.
 
+### 쿠스코 (Cusco)
+
+![Plaza des Armes](/assets/2018-02-04-peru-trip-01-intro/plaza-des-armes.jpg)
+![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cuscu-night-1.jpg)
+![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cuscu-night-2.jpg)
+![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cuscu-night-3.jpg)
+
+### 와카치나(Huacachina) 오아시스, 사막
+![Desert panorama](/assets/2018-02-04-peru-trip-01-intro/desert-pano.jpg)
+![Huacachina](/assets/2018-02-04-peru-trip-01-intro/hucacachina.jpg)
+![Desert](/assets/2018-02-04-peru-trip-01-intro/desert-1.jpg)
+![Desert](/assets/2018-02-04-peru-trip-01-intro/desert-2.jpg)
+
+### 마추픽추 (Machu Picchu)
+
+![Machupicchu panorama](/assets/2018-02-04-peru-trip-01-intro/machupicchu-pano.jpg)
+![Machupicchu entrance](/assets/2018-02-04-peru-trip-01-intro/machupicchu-entrance.jpg)
+![Machupicchu](/assets/2018-02-04-peru-trip-01-intro/machupicchu-1.jpg)
+![Machupicchu](/assets/2018-02-04-peru-trip-01-intro/machupicchu-2.jpg)
+![Machupicchu inside](/assets/2018-02-04-peru-trip-01-intro/machupicchu-inside.jpg)
+![Machupicchu stones](/assets/2018-02-04-peru-trip-01-intro/machupicchu-stones.jpg)
+![Waynapicchu](/assets/2018-02-04-peru-trip-01-intro/waynapicchu.jpg)
 
 ## 페루 여행기 구성
 
@@ -105,8 +127,7 @@ categories: 여행
 
 아마 많은 분들이 아시겠지만 페루 여행기로는 tvN에서 예전에 방영했던 "꽃보다
 청춘" 페루 편을 적극 추천하는 바입니다. 아재들의 경우, "꽃보다 청춘"을 페루
-여행을 준비하면서 교재로 활용했는데요. 페루 여행을 갔다 온 지금 다시 보아도 참
+여행을 준비하면서 교재로 활용했는데요. 페루 여행을 갔다 온 지금 다시 보아도
 잘 만들어진 여행기라는 생각이 듭니다. 유희열, 이적, 윤상 세 청춘(!)이 모여서
-낯선 페루 여행을 하며 보고 듣고 느끼는 것들을 참 잘 기록해 두었습니다.
-
+낯선 페루 여행을 하며 보고 듣고 느끼는 것들을 잘 기록해 두었습니다.
 
