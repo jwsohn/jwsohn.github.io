@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "아재 셋의 페루 여행기 1 - 페루 여행 소개"
-date:   2017-12-03 22:30:00 -0500
+date:   2018-02-04 22:30:00 -0500
 published: yes
 categories: 여행
 ---
@@ -91,9 +91,9 @@ categories: 여행
 
 ### 쿠스코 (Cusco)
 
-![Plaza des Armes](/assets/2018-02-04-peru-trip-01-intro/plaza-des-armes.jpg)
+![Plaza de Armas](/assets/2018-02-04-peru-trip-01-intro/plaza-des-armes.jpg)
 
-쿠스코의 다운타운 중앙 광장인 Plaza des Armes에 세워져 있는 성당 건물입니다.
+쿠스코의 다운타운 중앙 광장인 Plaza de Armas에 세워져 있는 성당 건물입니다.
 
 ![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cusco-night-1.jpg)
 ![Cusco nightview](/assets/2018-02-04-peru-trip-01-intro/cusco-night-2.jpg)
