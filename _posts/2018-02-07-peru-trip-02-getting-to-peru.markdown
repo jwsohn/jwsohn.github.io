@@ -69,6 +69,7 @@ Avianca나 Latam을 많이 이용하게 되겠습니다.
 것을 추천합니다. 아무래도 처음 적응 할 때 편리합니다.
 
 ![Miraflores 지도](/assets/2018-02-07-peru-trip-02-getting-to-peru/miraflores-map.png)
+
 [Miraflores 지도 링크](https://goo.gl/maps/h9SMUHonusH2)
 
 Mirfalores에서는 일단 Miraflores 중앙 공원 (Parque Central de Miraflores)가
@@ -143,8 +144,9 @@ Raimondi)도 조성이 되어 있는데요. 심야 12시 1시에 돌아다녀도
 당황하실 겁니다. 길이 일직선으로 나오지 않고 엄청 둘러 1000Km를 가지를 않나,
 게다가 시간은 무려 19시간 추정으로 나옵니다. 
 
-[리마에서 쿠스코까지 구글 맵](/assets/2018-02-07-peru-trip-02-getting-to-peru/from-lima-to-cusco.png)
-![리마에서 쿠스코까지](https://goo.gl/maps/uPApHZ9gn6t)
+![리마에서 쿠스코까지 구글 맵](/assets/2018-02-07-peru-trip-02-getting-to-peru/from-lima-to-cusco.png)
+
+[리마에서 쿠스코까지](https://goo.gl/maps/uPApHZ9gn6t)
 
 그 이유는 역시나 위의 구글 맵에서 보실 수 있듯이 험준한 안데스 산맥
 때문이겠습니다.  페루는 서쪽 태평양 연안은 산이 없어서 고속도로가 잘 되어
@@ -208,6 +210,7 @@ Raimondi)도 조성이 되어 있는데요. 심야 12시 1시에 돌아다녀도
 먹었습니다. La Lucha Sangucheria 위치 갑니다.
 
 ![La Lucha Sangucheria](/assets/2018-02-07-peru-trip-02-getting-to-peru/la-lucha-sangucheria.png)
+
 [La Lucha Sangucheria 위치](https://goo.gl/maps/7hSCPEaedbT2)
 
 그리고 쿠스코 지방으로 가면 갈수록 잉카문명의 페루 전통요리가 많이 등장하게
@@ -234,30 +237,5 @@ Raimondi)도 조성이 되어 있는데요. 심야 12시 1시에 돌아다녀도
 있습니다. 중국 음식점이 그러하듯이, 치파 역시 원조 중국 음식도 아니고 페루
 음식도 아닌 적절히 현지화된 음식을 제공하는데 우리 입맛에 잘 맞습니다.
 
-페루에서는 식당에서 팁을 줄 필요는 없습니다. 나온대로 계산하시면 되구요.
+페루에서는 식당에서 팁을 추가할 필요는 없습니다. 나온대로 계산하시면 되구요.
 혹 팁을 남기고 싶으시면 남기셔도 되겠습니다.
-
-  * How to get to Peru
-    - Overview
-      * South America?
-      * Time zone
-    - Getting to Peru
-      * Flights
-        - Arriving at Lima
-      * Currency: Sol      
-    - Moving around in Peru
-      * Google Map         
-      * Transportation     
-        - Bus              
-        - Taxi and Uber    
-        - Walking and safety                           
-      * 호객행위           
-    - Staying in Peru      
-      * Hotels             
-      * Communication in English                       
-      * Currency and low price level                   
-    - Eating in Peru       
-      * Good food: Ceviche, Chipa                      
-      * Tipping            
-      * Some personal recommendations
-
