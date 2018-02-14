@@ -79,7 +79,13 @@ categories: 여행
 ![Inca & Spain](/assets/2018-02-12-peru-trip-03-cusco/inca-spanish-hybrid.jpg)
 ![12각돌](/assets/2018-02-12-peru-trip-03-cusco/12-faceted-rock.jpg)
 
+잉카 주춧돌. 스페인식 건물 위에. 나쁘지 않음. 
+12각돌 보면 잉카 건축기술 감이 옴. 
+
 ![cat](/assets/2018-02-12-peru-trip-03-cusco/cat.jpg)
+
+쿠스코 동물 인심 좋음. 개보면 인심 추측 가능. 냥넘 성격 무지 좋았음. 다만
+개조심. 
 
 ![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview.jpg)
 ![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-2.jpg)
@@ -90,6 +96,14 @@ categories: 여행
 ![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-7.jpg)
 ![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-8.jpg)
 ![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-9.jpg)
+
+야경 참 좋음. 노란색 계열. 사진기 좋은 거 가져가기 추천함. 뒤에 보이는 불빛이
+달동네. 
+
+참고: 쿠스께냐 맥주 추천.
+
+참고2: 고산병. 코카차. 반나절 혹은 한나절. 쿠스코에서 적응하고 마추픽추 가는
+거 추천.
 
  * Cusco
     - The best place in this trip
