@@ -55,19 +55,29 @@ categories: 여행
 ![Plaza de Armas](/assets/2018-02-12-peru-trip-03-cusco/plaza-de-armas.jpg)
 ![Plaza de Armas](/assets/2018-02-12-peru-trip-03-cusco/plaza-de-armas-2.jpg)
 ![Plaza de Armas](/assets/2018-02-12-peru-trip-03-cusco/plaza-de-armas-3.jpg)
+![Hostal](/assets/2018-02-12-peru-trip-03-cusco/hostal.jpg)
+
+어디가나 무기의 광장. 중심부. 상가 밀집. 호텔 소개.
 
 ![Cathedral](/assets/2018-02-12-peru-trip-03-cusco/cathedral.jpg)
 
+성당 멋짐. 잉카인들이 지음. 아르바이트 학부생 영어 잘했음. 애들 교육 신경쓰는
+듯.
+
+![Museo](/assets/2018-02-12-peru-trip-03-cusco/museo.jpg)
 ![Cusco sky](/assets/2018-02-12-peru-trip-03-cusco/cusco-sky.jpg)
-![Cusco sky](/assets/2018-02-12-peru-trip-03-cusco/cusco-sky-2.jpg)
 ![Cusco sky](/assets/2018-02-12-peru-trip-03-cusco/cusco-sky-3.jpg)
+![Cusco sky](/assets/2018-02-12-peru-trip-03-cusco/cusco-sky-2.jpg)
+
+쿠스코 박물관. 박물관 밖 전경. 하늘 좋음. 고산병 
 
 ![Mercado](/assets/2018-02-12-peru-trip-03-cusco/mercado.jpg)
 ![Mercado](/assets/2018-02-12-peru-trip-03-cusco/mercado-2.jpg)
 
+시장. Mercado 외워라. 
+
 ![Inca & Spain](/assets/2018-02-12-peru-trip-03-cusco/inca-spanish-hybrid.jpg)
 ![12각돌](/assets/2018-02-12-peru-trip-03-cusco/12-faceted-rock.jpg)
-![Hostal](/assets/2018-02-12-peru-trip-03-cusco/hostal.jpg)
 
 ![cat](/assets/2018-02-12-peru-trip-03-cusco/cat.jpg)
 
