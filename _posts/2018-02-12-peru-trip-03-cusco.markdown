@@ -52,6 +52,35 @@ categories: 여행
 
 ## 쿠스코에 도착해서
 
+![Plaza de Armas](/assets/2018-02-12-peru-trip-03-cusco/plaza-de-armas.jpg)
+![Plaza de Armas](/assets/2018-02-12-peru-trip-03-cusco/plaza-de-armas-2.jpg)
+![Plaza de Armas](/assets/2018-02-12-peru-trip-03-cusco/plaza-de-armas-3.jpg)
+
+![Cathedral](/assets/2018-02-12-peru-trip-03-cusco/cathedral.jpg)
+
+![Cusco sky](/assets/2018-02-12-peru-trip-03-cusco/cusco-sky.jpg)
+![Cusco sky](/assets/2018-02-12-peru-trip-03-cusco/cusco-sky-2.jpg)
+![Cusco sky](/assets/2018-02-12-peru-trip-03-cusco/cusco-sky-3.jpg)
+
+![Mercado](/assets/2018-02-12-peru-trip-03-cusco/mercado.jpg)
+![Mercado](/assets/2018-02-12-peru-trip-03-cusco/mercado-2.jpg)
+
+![Inca & Spain](/assets/2018-02-12-peru-trip-03-cusco/inca-spanish-hybrid.jpg)
+![12각돌](/assets/2018-02-12-peru-trip-03-cusco/12-faceted-rock.jpg)
+![Hostal](/assets/2018-02-12-peru-trip-03-cusco/hostal.jpg)
+
+![cat](/assets/2018-02-12-peru-trip-03-cusco/cat.jpg)
+
+![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview.jpg)
+![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-2.jpg)
+![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-3.jpg)
+![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-4.jpg)
+![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-5.jpg)
+![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-6.jpg)
+![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-7.jpg)
+![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-8.jpg)
+![Cusco nightview](/assets/2018-02-12-peru-trip-03-cusco/cusco-nightview-9.jpg)
+
  * Cusco
     - The best place in this trip
       * Foundations from Inca, buildings from Spain
