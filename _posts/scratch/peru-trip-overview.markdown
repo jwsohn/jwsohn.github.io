@@ -28,7 +28,7 @@
       * Communication in English
       * Currency and low price level
     - Eating in Peru
-      * Good food: Ceviche, Chipa
+      * Good food: Ceviche, Chifa
       * Tipping 
       * Some personal recommendations
   * Planning your Peru trip
