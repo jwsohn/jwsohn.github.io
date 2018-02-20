@@ -44,7 +44,9 @@ categories: 여행
 일단 지도부터 볼까요? 마추픽추까지 가려면 쿠스코에서 우선
 올란타이탐보(Ollantaytambo, 오얀따이땀보가 실제 발음입니다.)까지 가셔야
 합니다. 여기까지는 지도에서 보듯이 차로 두시간 정도 가면 됩니다. 택시를 대절
-하셔도 되고 버스를 타셔도 됩니다.
+하셔도 되고 버스를 타셔도 됩니다. 중간 중간에 볼 거리가 많으니 (Cinchero,
+Moray, Salinas de Maras 소금 광산 등등) 반나절에서 한나절 정도 여유있게 가시면
+좋겠습니다. 
 
 ![From Ollantaytambo to Aguas Calientes](/assets/2018-02-18-peru-trip-04-getting-to-machupicchu/ollan-to-machupicchu.png)
 
