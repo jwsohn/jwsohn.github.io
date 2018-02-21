@@ -8,8 +8,8 @@ categories: 여행
 
 # 아재 셋의 페루 여행기 4 --- 마추픽추(Machu Picchu)로 가는 길
 
-이번 포스팅은 마추픽추로 가는 방법에 대해 소개해 보도록 하겠습니다. 마추픽추로
-가는 길이 의외로 간단하지가 않습니다. 
+이번 포스팅은 마추픽추로 가는 방법과 준비해야 할 것들에 대해 소개해 보도록
+하겠습니다. 마추픽추로 가는 길이 의외로 간단하지가 않습니다. 
 
 ## 마추픽추로 가는 길: 소개
 
@@ -165,7 +165,7 @@ http://www.machupicchu.gob.pe/
 많으니까 샌드위치라도 하나 챙기셔야 마추픽추에서 배고프게 다니지 않을 수
 있겠습니다. 
 
-마추픽추에 올라가실 때 하나 신경써야 할 것은 벌레입니다. 영어로는 Sand fly라고
+마추픽추에 올라가실 때 하나 신경써야 할 것은 벌레입니다. 영어로는 sand fly라고
 하는데요. 조그만 날파리 같은 것들이 날아다니면서 모기처럼 피를 빠는데 ---
 빈대(bed bug)가 날개달고 다니면서 사람을 문다고 생각하시면 되겠습니다.
 
@@ -219,34 +219,20 @@ fly를 모르고 마추픽추에 오는 바람에 막상 마추픽추에서 벌�
 그렇고 또 마추픽추라는 유적 자체가 그런 속성을 갖고 있는 것 같습니다.
 
 다만, 이런 마추픽추에 올라가기 위해서는 교통편부터 시작해서 숙박, 티켓팅, 시간
-계획을 잘 짜는 것이 좋겠습니다. 이번 글이 마추픽추 여행을 생각하고 있으신
-분들께 도움이 되면 좋겠습니다. 아, 날아다니는 빈대 sand fly 대책도 잊으시면
-안되겠습니다.
+계획을 잘 짜는 것이 좋겠습니다. 참고로 아재들 일정은 이렇게 1박 2일로 진행했습니다.
 
+  * 쿠스코에서 아침 일찍 출발. 올란타이탐보까지 택시 반나절 대절.
+  * 올란타이탐보로 가는 도중 모라이(Moray)와 소금 광산(Salinas de Maras) 구경
+  * 올란타이탐보에서 구경과 점심 식사. 오후 3시 경 아구아스 칼리엔테스 행 기차 탑승
+  * 아구아스 칼리엔테스 도착. 저녁 식사와 숙소 투숙. 아구아스 칼리엔테스 구경.
+  * 다음날 새벽 5시 기상. 마추픽추행 버스 줄서서 탑승.
+  * 해뜨기 전 마추픽추 입장 완료. 마추픽추 구경 시작.
+  * 와이나픽추 등정. 등정 후 마추픽추로 귀환.
+  * 마추픽추 구경. 가져온 음식으로 간단히 점심 해결
+  * 오후에 아구아스 칼리엔테스로 버스 탑승 귀환
+  * 오후 5시 경 돌아가는 기차 탑승
+  * 기차역에서 택시로 쿠스코 귀환
 
-  * How to get to Machu Picchu
-    - Why hard?
-      * Originally Inca Trail
-      * Workaround for Inca Trail
-    - Course planning
-      * Easiest and expensive
-        - Cusco, Ollan., Aguas Calientes via Peru Rail
-        - Finally, take a bus to Machu Picchu 
-          * Or walk hours
-      * Original Inca Trail 
-    - 고산병 (altitude sickness, mountain sickness)
-      * Took a day for adjustment. Cusco's the highest at 3500m
-      * Gets better since Machu Picchu is at lower altitude
-      * Make sure you spend a day at Cusco
-  * Machu Picchu
-    - Getting prepared:
-      * Make a reservation before the trip
-        - Daily quota of the traveller numbers at Machu Picchu
-      * Buy a bus pass a day before
-        - Leaves every 30 minutes (almost)
-      * It is a mess before you arrive there
-      * Get up early so that you can have a sunrise at Machu Picchu
-        - Weather can be tricky; if you are lucky, you will have a grandiose
-          view
-      * Will take about a day
-      * Sandflies
+이번 글이 마추픽추 여행을 생각하고 있으신 분들께 도움이 되면 좋겠습니다. 아,
+마지막으로 날아다니는 빈대 sand fly 대책, 잊지 마시길 바랍니다. 
+
