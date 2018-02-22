@@ -2,7 +2,7 @@
 layout: post
 title:  "아재 셋의 페루 여행기 3 - 잉카 제국의 수도 쿠스코(Cusco)"
 date:   2018-02-11 22:30:00 -0500
-published: no
+published: yes
 categories: 여행
 ---
 
