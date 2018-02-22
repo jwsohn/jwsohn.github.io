@@ -69,8 +69,8 @@
     - cusquena
   * Ollan. and Aguas Calientes  
     - Small Inca legacy sites
-      * Moray, Ollantaytambo
-    - The small town? 
+      * Moray, Salinas de Maras, Ollantaytambo
+    - The small town? Chinchero 
     - Buy bug repellers and prepare against bug biting 
     - Aquas Calientes
       * 마추피추 등정 관광객용 전진기지
@@ -91,7 +91,7 @@
     - Our experience
       * Cameras can't contain the view
       * It is a legacy site, but feels very alive 
-      * The one at the back: Can be hard to climb, but worth it
+      * The one at the back Huayna Picchu: Can be hard to climb, but worth it
     - 참고: Titicaca lake?
   * Huacachina 
     - Intro
