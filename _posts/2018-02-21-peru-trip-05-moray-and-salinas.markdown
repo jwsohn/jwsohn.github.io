@@ -2,7 +2,7 @@
 layout: post
 title:  "아재 셋의 페루 여행기 5 --- 신성한 계곡 (Sacred Valley)"
 date:   2018-02-21 22:30:00 -0500
-published: no
+published: yes
 categories: 여행
 ---
 
