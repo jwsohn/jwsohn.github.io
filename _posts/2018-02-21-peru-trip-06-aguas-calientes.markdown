@@ -86,7 +86,11 @@ categories: 여행
 오신 것을 환영합니다" 조형물이 되겠습니다. 손을 들고 여러분들을 환영하고 있는
 분은 마지막 잉카 제국의 황제이셨다고 합니다.
 
-
+![Aguas](/assets/2018-02-21-peru-trip-06-aguas-calientes/aguas-1.jpg)
+![Aguas](/assets/2018-02-21-peru-trip-06-aguas-calientes/aguas-2.jpg)
+![Aguas](/assets/2018-02-21-peru-trip-06-aguas-calientes/aguas-3.jpg)
+![Aguas](/assets/2018-02-21-peru-trip-06-aguas-calientes/aguas-4.jpg)
+![Aguas](/assets/2018-02-21-peru-trip-06-aguas-calientes/aguas-5.jpg)
 
 그나저나 마추픽추는 새벽에 일어나서 일출 전에 올라가야 좋은 경치를 볼 수
 있다고 하기에 오늘 밤은 내일 새벽 기상을 위해 일찍 자야 했습니다.
