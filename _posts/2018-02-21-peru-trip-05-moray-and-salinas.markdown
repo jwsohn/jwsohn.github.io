@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "아재 셋의 페루 여행기 5 --- 신성한 계곡 (Sacred Valley)"
+title:  "아재 셋의 페루 여행기 5편 - 신성한 계곡 (Sacred Valley)"
 date:   2018-02-21 22:30:00 -0500
 published: yes
 categories: 여행
 ---
 
-# 아재 셋의 페루 여행기 5 --- 신성한 계곡 (Sacred Valley)
+# 아재 셋의 페루 여행기 5편 - 신성한 계곡 (Sacred Valley)
 
 이번 포스팅에서는 아재들이 마추픽추에 등정하기 전 전진기지(?)라고 할 수 있는
 아구아스 칼리엔테스(Aguas Calientes)까지 가면서 구경한 이곳 저곳을 같이

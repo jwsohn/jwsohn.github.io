@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "아재 셋의 페루 여행기 6편 --- 아구아스 칼리엔테스 (Aguas Calientes)"
+title:  "아재 셋의 페루 여행기 6편 - 아구아스 칼리엔테스 (Aguas Calientes)"
 date:   2018-02-28 22:30:00 -0500
 published: yes
 categories: 여행
 ---
 
-# 아재 셋의 페루 여행기 6편 --- 아구아스 칼리엔테스 (Aguas Calientes)
+# 아재 셋의 페루 여행기 6편 - 아구아스 칼리엔테스 (Aguas Calientes)
 
 아구아스 칼리엔테스(Aguas Calientes)에 대해서는 뭐라고 적어야 할까요. 이곳은
 스페인어로 "뜨거운 물"이라는 지명에서 알 수 있듯이 온천이 나오는 작은
