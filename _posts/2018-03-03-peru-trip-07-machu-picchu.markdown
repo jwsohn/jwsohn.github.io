@@ -22,7 +22,7 @@ categories: 여행
 
 마추픽추 입구의 모습입니다. 생각보다는 작고 초라해 보이죠? 
 
-[사진]
+![Machu picchu entrance](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-entrance.jpg)
 
 간단한 검문검색 및 마추픽추 입장 예약 확인 절차를 거치고 아재들은 드디어
 마추픽추 입구를 통과했습니다. 다른 관광객들과 같이 걸어가기를 수분여, 아아
@@ -32,7 +32,9 @@ categories: 여행
 그런데 다행히 아재들은 오늘 운이 좋았습니다. 올라가다보니 안개가 조금씩 걷히기
 시작하면서 경관이 드러나기 시작하는 겁니다.
 
-[사진]
+![Machu picchu entrance](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-entrance-1.jpg)
+![Machu picchu entrance](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-entrance-2.jpg)
+![Machu picchu entrance](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-entrance-3.jpg)
 
 그리하여 아재들은 마추픽추에 도달했습니다. 오오 이곳은 말로만 듣던 마추픽추.
 그 순간 기억에 나는 것은 앞에 마추픽추 유적이 듬성듬성 드러나면서 안데스
@@ -45,7 +47,10 @@ categories: 여행
 사진으로는 좀 느낌이 안옵니다만 그 당시 조금씩 걷히던 안개 속에서 찍은 사진을
 잠깐 보시겠습니다.
 
-[사진 1]
+![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-1.jpg)
+![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-2.jpg)
+![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-3.jpg)
+![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-4.jpg)
 
 저게 설마 그렇게 좋았을까나 싶으시죠? 저도 지금 사진을 보면서는 그렇게
 생각합니다. 하지만, 직접 경험한 안개 사이로 드러나던 마추픽추의 첫 모습은
@@ -54,7 +59,11 @@ categories: 여행
 감탄하는 감정만 밀려 온 것이 아니라 그 장대함에 대한 경탄도 같이 느꼈기
 때문입니다. 사진 계속 보시겠습니다.
 
-[사진 2]
+![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-5.jpg)
+![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-6.jpg)
+![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-7.jpg)
+![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-8.jpg)
+![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-9.jpg)
 
 아재들은 신이 나서 마추픽추 이곳저곳을 돌아다녔습니다. 이곳은 분명 유적입니다.
 무너진 곳도 많고 지붕이 없는 건물도 많습니다만 뭐랄까 묘한 생동감이 같이
@@ -84,7 +93,10 @@ categories: 여행
 와이나픽추 등정은 여전히 고달팠고 허벅지 근육은 아파왔지만 기분은 더욱
 상쾌해져갔습니다.
 
-[사진]
+![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-1.jpg)
+![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-2.jpg)
+![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-3.jpg)
+![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-4.jpg)
 
 마침내 아재들은 와이나픽추 정상에도 도달했습니다. 와이나픽추 정상에는 큰
 볼거리는 없었습니다. 돌로 이루어진 산 정상이지 특별한 유적은 없었습니다.
@@ -95,7 +107,10 @@ categories: 여행
 놓은 듯 했습니다. 아아 산수화에서 보던 그런 산들이 진짜로 존재하는구나 생각이
 자연스레 들었습니다.
 
-[사진]
+![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-top.jpg)
+![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-5.jpg)
+![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-6.jpg)
+![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-7-pano.jpg)
 
 와이나픽추에서 멀리 보이는 마추픽추의 전경입니다. 왼쪽의 지그재그 길이 버스가
 올라오는 길입니다. 전체적으로 마추픽추가 산 꼭대기의 평평한 마치 미니 분지
@@ -105,11 +120,7 @@ categories: 여행
 쳐다 보아도 마추픽추가 보이지 않습니다. 뭐랄까 천혜의 지형 속에 숨겨져 있는
 고대의 유적이 마추픽추였습니다.
 
-[사진]
-
-와이나픽추에서 내려오는 길입니다. 뒤의 커다란 산들의 배경을 잘 보시구요.
-
-[사진]
+![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-8.jpg)
 
 ## 다시 마추픽추로 
 
