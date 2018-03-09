@@ -2,13 +2,13 @@
 layout: post
 title:  "아재 셋의 페루 여행기 7편 - 마추픽추(Machu Picchu) 등정"
 date:   2018-03-03 22:30:00 -0500
-published: no
+published: yes
 categories: 여행
 ---
 
 # 아재 셋의 페루 여행기 7편 - 마추픽추(Machu Picchu) 등정(登頂)
 
-네. 드디어 마추픽추에 오르는 날이 되겠습니다. 아재들은 해뜨기전 일어나 무거운
+네. 드디어 마추픽추에 오르는 날이 되겠습니다. 아재들은 해 뜨기 전 일어나 무거운
 몸을 이끌고 마추픽추 등정 준비에 나섰습니다.
 
 아구아스 칼리엔테스 다운타운의 마추픽추행 버스 정류장에는 이미 많은 인파가
@@ -25,28 +25,28 @@ categories: 여행
 ![Machu picchu entrance](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-entrance.jpg)
 
 아재들은 간단한 검문검색 및 마추픽추 입장 예약 확인 절차를 거치고 드디어
-마추픽추 입구를 통과했습니다. 다른 관광객들과 같이 걸어가기를 수 분여, 아아
-그러나 해뜨기 전 마추픽추는 안개에 자욱히 싸여 있었습니다. 전경이 잘 보이지
+마추픽추 입구를 통과했습니다. 다른 관광객들과 같이 걸어가기를 수 분여, 그러나
+해뜨기 전 마추픽추는 여전히 안개에 자욱히 싸여 있었습니다. 전경이 잘 보이지
 않을 정도로 짙은 안개였습니다.
 
 그런데 다행히 아재들은 오늘 운이 좋았습니다. 올라가다보니 안개가 조금씩 걷히기
-시작하면서 마추픽추와 주변의 경관이 드러나기 시작하는 겁니다.
+시작하면서 마추픽추와 그 주변의 경관이 드러나기 시작하는 겁니다.
 
 ![Machu picchu entrance](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-entrance-1.jpg)
 ![Machu picchu entrance](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-entrance-2.jpg)
 ![Machu picchu entrance](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-entrance-3.jpg)
 
-그리하여 아재들은 마추픽추에 도달했습니다. 오오 이곳은 말로만 듣던 마추픽추.
-그 순간 눈앞에 펼쳐진 것은 전방의 마추픽추 유적이 안개 사이로 듬성듬성
-드러나면서 안데스 산맥의 장대한 풍경이 배경으로 깔리는 모습이었습니다. 그런데
+오오 아재들은 드디어 마추픽추에 도달한 것이었습니다. 이곳이 말로만 듣던 마추픽추.
+그 순간 눈 앞에 펼쳐진 것은 전방의 마추픽추 유적이 안개 사이로 듬성듬성
+드러나면서 안데스 산맥의 장대한 풍경을 배경으로 깔리는 모습이었습니다. 그런데
 말입니다. 이 순간 아재들 셋 다 "오오 멋지다" 탄성을 지르고 있었습니다.
-그리고는 셋 다 똑같이 "*이것은 카메라에 담을 수 없는 경치다*"라는 생각을 하고
+그리고는 셋 다 똑같이 **"이것은 카메라에 담을 수 없는 경치다"**라는 생각을 하고
 있었습니다. 지금도 마추픽추를 회상하면 아재들은 셋 다 똑같이 이 "카메라에 담을
 수 없는 경치"를 보고 왔다고 뿌듯해하곤 합니다. 묘하게도, 셋 다 이 부분에
 대해서는 만장일치로 합의(?)를 본 셈이지요.
 
 사진으로는 좀 느낌이 덜 옵니다만 그 당시 조금씩 걷히던 안개 속에서 찍은 사진을
-보시겠습니다.
+계속 보시겠습니다.
 
 ![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-1.jpg)
 ![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-2.jpg)
@@ -55,9 +55,9 @@ categories: 여행
 
 저게 설마 그렇게 좋았을까나 싶으시죠? 저도 지금 사진을 보면서는 그렇게
 생각합니다. 하지만, 직접 경험한 안개 사이로 드러나던 마추픽추의 첫 모습은
-참으로 장엄하고 감동적이었습니다. 본 아재 개인적으로는 뭐랄까 마추픽추에는 어떤
-영험한 기운도 좀 서려 있는 게 아닌가 하는 생각을 해 봅니다. 그 순간 멋진 광경에
-감탄하는 감정만 밀려 온 것이 아니라 그 장대함에 대한 경탄도 같이 느꼈기
+참으로 장엄하고 감동적이었습니다. 본 아재 개인적으로는 뭐랄까 마추픽추에는
+어떤 영험한 기운도 서려 있는 게 아닌가 하는 생각을 해 봅니다. 그 순간에는 멋진
+광경에 감탄하는 감정만 밀려 온 것이 아니라 장대함에 대한 경탄도 같이 느꼈기
 때문입니다. 사진 계속 보시겠습니다.
 
 ![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-5.jpg)
@@ -70,7 +70,7 @@ categories: 여행
 무너진 곳도 많고 지붕이 없는 건물도 많습니다만 뭐랄까 묘한 생동감이 같이
 존재했습니다. 때는 이른 아침이라 이제 막 입장한 여행객들만 보였습니다만 이곳은
 적막한 폐허와는 거리가 먼 곳이었습니다. 마침 저 멀리 보이는 봉우리 사이들로
-해가 뜨는데 그 모습도 참 감동적이었습니다. 자연스럽게 오늘 아재들이 날씨 좋은
+해가 뜨는 데 그 모습도 참 감동적이었습니다. 자연스럽게 오늘 아재들이 날씨 좋은
 날을 운좋게 타고 온 것에 대해 감사하는 마음이 밀려왔습니다.
 
 ## 와이나픽추(Huayna picchu) 등정 
@@ -110,15 +110,14 @@ categories: 여행
 ![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-top.jpg)
 ![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-5.jpg)
 ![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-6.jpg)
-![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-7-pano.jpg)
 
 와이나픽추에서 멀리 보이는 마추픽추의 전경입니다. 왼쪽의 지그재그 길이 버스가
 올라오는 길입니다. 전체적으로 마추픽추가 산 꼭대기의 평평한 마치 미니 분지
-같은 지형에 자리잡고 있음을 볼 수 있습니다. 그리고, 마추픽추 아래로 내려가는
-산 경사가 아주 가파릅니다. 마추픽추에서 아래를 내려다보면 아구아스
-칼리엔테스가 아주 잘 보입니다. 하지만 아구아스 칼리엔테스에서는 아무리 위를
-쳐다 보아도 마추픽추가 보이지 않습니다. 뭐랄까 천혜의 지형 속에 숨겨져 있는
-고대의 유적이 마추픽추였습니다.
+같은 지형에 자리잡고 있음을 볼 수 있겠습니다. 그리고, 마추픽추 아래로 내려가는
+산 경사가 가파른 것 역시 볼 수 있습니다. 마추픽추에서 아래를 내려다보면
+아구아스 칼리엔테스가 아주 잘 보입니다. 하지만 아구아스 칼리엔테스에서는
+아무리 위를 쳐다 보아도 마추픽추가 보이지 않습니다. 뭐랄까 천혜의 지형 속에
+숨겨져 있는 고대의 유적이 마추픽추였습니다.
 
 ![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-8.jpg)
 
@@ -126,28 +125,34 @@ categories: 여행
 
 와이나픽추를 내려오는 길은 금방이었습니다. 아재들은 다시 마추픽추 구경을
 재개했습니다. 이때 즈음에는 안개도 모두 걷혀서 깔끔하게 드러난 마추픽추의
-모습을 한껏 즐길 수 있었습니다. 일단 사진부터 보시지요.
+모습을 한껏 즐길 수 있었습니다. 일단 사진부터 보시지요.  참고로 저 멀리 보이는
+계단식 구조물이 경작지라고 합니다. 우리네 계단식 논과 비슷합니다.
 
-[사진]
-
-저 멀리 보이는 계단식 구조물이 경작지라고 합니다. 우리네 계단식 논과
-비슷합니다.
-
-[사진]
+![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-re-1.jpg)
+![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-re-2.jpg)
+![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-re-3.jpg)
+![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-re-4.jpg)
+![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-re-5.jpg)
+![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-re-6.jpg)
+![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-re-7.jpg)
+![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-re-8.jpg)
 
 태양의 신전 입구라고 합니다. 신전 주변에 큰 돌이 많이 있었습니다.
 
-[사진]
+![Sun shrine](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-sun-shrine-1.jpg)
+![Sun shrine](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-sun-shrine-3.jpg)
+![Sun shrine](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-big-stone.jpg)
 
 마추픽추 내에는 이렇게 물이 흐르는 관개시설도 되어 있습니다. 지금까지도 여전히
 물이 흐르고 있습니다.
 
-[물흐르는 사진]
+![Water](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-water-1.jpg)
+![Water](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-water-2.jpg)
 
 마추픽추에서 아래 아구아스 칼리엔테스를 내려다본 사진입니다. 우루밤바 강이
 흐르고 그 가운데 기차역이 있음을 보실 수 있겠습니다. 
 
-[위에서 아래 내려보는 사진]
+![Aguas Calientes](/assets/2018-03-03-peru-trip-07-machu-picchu/aguas-calientes.jpg)
 
 아재들은 이제 마추픽추를 거꾸로 가로질러 와이나픽추 반대편에 있는 산길도
 올라가기 시작했습니다. 뭐랄까 이제 신이 난 느낌이었습니다. 다리는 무겁고
@@ -156,21 +161,29 @@ categories: 여행
 도달하면 만날 수 있는 잉카 트레일 입구가 나옵니다. 이곳에서 아재들은 잠시
 휴식을 취하고 다시 발길을 돌려 마추픽추로 내려갔습니다. 
 
-[잉카 트레일 입구 사진]
+![Inca trail](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-inca-trail-1.jpg)
+![Inca trail](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-inca-trail-2.jpg)
 
 다시 돌아온 마추픽추입니다. 이 때 즈음 시간은 한낮이 되어서 마추픽추는 밝게
 빛나는 자태를 뽐내고 있었습니다. 마침 아재들은 소위 달력샷이라고 불리는
 마추픽추의 전경이 보이는 곳을 지나가고 있었습니다. 이곳에서는 네, 반드시
 사진을 찍어야 하겠습니다. 마추픽추 전경을 한번 보시지요.
 
-[달력샷 사진]
+![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-calendar-1.jpg)
+![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-calendar-zoom.jpg)
+
+마추픽추 전경을 보면서 무언가 골똘히 생각하고 있는 아재의 모습입니다. 
+
+![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-calendar-2.jpg)
 
 마추픽추에는 사람만 있는 것이 아닙니다. 아마도 관광용으로 풀어 놓은 것 같기는
 한데요. 라마(llama)가 있습니다. 마추픽추 같이 좋은 곳에서 동물들과의 교감도 참
 즐거운 일이었습니다. 여기 라마들은 전체적으로 순하고 사람의 손길을 무서워하지
 않았습니다.
 
-[라마 사진]
+![llama](/assets/2018-03-03-peru-trip-07-machu-picchu/llama-1.jpg)
+![llama](/assets/2018-03-03-peru-trip-07-machu-picchu/llama-2.jpg)
+![llama](/assets/2018-03-03-peru-trip-07-machu-picchu/llama-3.jpg)
 
 그리하여 아재들은 반나절 조금 더 되는 시간을 마추픽추에서 즐거이 보내고 다시
 아구아스 칼리엔테스로 내려왔습니다. 아무래도 좀 더 구경을 많이 하면 더
@@ -178,7 +191,8 @@ categories: 여행
 
 아구아스 칼리엔테스에 내려와서는 간단히 식사로 허기진 배를 보충하고 다시 오후
 늦게 기차역에서 돌아가는 기차를 탑승했습니다. 그리고 한밤중이 되어서 아재들은
-택시를 타고 정겨운 쿠스코로 다시 귀환했습니다.
+택시를 타고 정겨운 쿠스코로 다시 귀환했습니다. 새벽부터 기나긴 하루를 보내며
+몸은 피곤했지만 참으로 즐겁고 행복한 하루였습니다.
 
 ## 마추픽추를 갔다 온 감상
 
