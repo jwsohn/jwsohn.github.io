@@ -2,7 +2,7 @@
 layout: post
 title:  "아재 셋의 페루 여행기 7편 - 마추픽추(Machu Picchu) 등정"
 date:   2018-03-03 22:30:00 -0500
-published: no
+published: yes
 categories: 여행
 ---
 
