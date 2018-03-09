@@ -36,17 +36,17 @@ categories: 여행
 ![Machu picchu entrance](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-entrance-2.jpg)
 ![Machu picchu entrance](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-entrance-3.jpg)
 
-그리하여 아재들은 마추픽추에 도달했습니다. 오오 이곳은 말로만 듣던 마추픽추.
+오오 아재들은 드디어 마추픽추에 도달한 것이었습니다. 이곳이 말로만 듣던 마추픽추.
 그 순간 눈 앞에 펼쳐진 것은 전방의 마추픽추 유적이 안개 사이로 듬성듬성
 드러나면서 안데스 산맥의 장대한 풍경을 배경으로 깔리는 모습이었습니다. 그런데
 말입니다. 이 순간 아재들 셋 다 "오오 멋지다" 탄성을 지르고 있었습니다.
-그리고는 셋 다 똑같이 "*이것은 카메라에 담을 수 없는 경치다*"라는 생각을 하고
+그리고는 셋 다 똑같이 "**이것은 카메라에 담을 수 없는 경치다**"라는 생각을 하고
 있었습니다. 지금도 마추픽추를 회상하면 아재들은 셋 다 똑같이 이 "카메라에 담을
 수 없는 경치"를 보고 왔다고 뿌듯해하곤 합니다. 묘하게도, 셋 다 이 부분에
 대해서는 만장일치로 합의(?)를 본 셈이지요.
 
 사진으로는 좀 느낌이 덜 옵니다만 그 당시 조금씩 걷히던 안개 속에서 찍은 사진을
-보시겠습니다.
+계속 보시겠습니다.
 
 ![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-1.jpg)
 ![Machu picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-2.jpg)
@@ -110,7 +110,6 @@ categories: 여행
 ![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-top.jpg)
 ![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-5.jpg)
 ![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-6.jpg)
-![Huayna picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/wayna-7-pano.jpg)
 
 와이나픽추에서 멀리 보이는 마추픽추의 전경입니다. 왼쪽의 지그재그 길이 버스가
 올라오는 길입니다. 전체적으로 마추픽추가 산 꼭대기의 평평한 마치 미니 분지
@@ -142,7 +141,6 @@ categories: 여행
 태양의 신전 입구라고 합니다. 신전 주변에 큰 돌이 많이 있었습니다.
 
 ![Sun shrine](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-sun-shrine-1.jpg)
-![Sun shrine](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-sun-shrine-2.jpg)
 ![Sun shrine](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-sun-shrine-3.jpg)
 ![Sun shrine](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-big-stone.jpg)
 
@@ -175,7 +173,7 @@ categories: 여행
 ![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-calendar-1.jpg)
 ![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-calendar-zoom.jpg)
 
-무언가 골똘히 생각하고 있는 아재의 모습입니다. 
+마추픽추 전경을 보면서 무언가 골똘히 생각하고 있는 아재의 모습입니다. 
 
 ![Machu Picchu](/assets/2018-03-03-peru-trip-07-machu-picchu/machu-calendar-2.jpg)
 
