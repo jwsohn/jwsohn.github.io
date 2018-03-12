@@ -3,7 +3,7 @@ layout: post
 title:  "아재 셋의 페루 여행기 8편 - 남미 유일의 오아시스 와카치나(Huacachina),
     미스터리의 나스카(Nazca) 평원"
 date:   2018-03-10 22:30:00 -0500
-published: no
+published: yes
 categories: 여행
 ---
 
