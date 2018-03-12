@@ -115,7 +115,6 @@ https://youtu.be/3MAPwdHIBLk
 ## 나스카 (Nazca)
 
 ![Nazca](/assets/2018-03-10-peru-trip-08-huacachina-and-nazca/nazca-flight-info.jpg)
-![Nazca](/assets/2018-03-10-peru-trip-08-huacachina-and-nazca/nazca-before-take-off.jpg)
 
 아재들이 어렸을 적에는 소위 소년소녀잡지들이 많았습니다. 이제는 잡지 제목도
 아련한 잡지의 단골 기사 중의 하나는 세계의 불가사의한 유적들 소개인데요. 이
@@ -146,7 +145,9 @@ https://youtu.be/3MAPwdHIBLk
 보시기 바랍니다.
 
 https://youtu.be/ogO2jh7LGNQ
+
 https://youtu.be/QpkTi0bp0cg
+
 https://youtu.be/Oro8eVFtPKo
 
 ## 리마로 돌아오는 길
