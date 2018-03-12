@@ -113,3 +113,5 @@
       * Machu Picchu: 이런곳이 있구나
       * Peru 사람들: 전체적으로 친절하다
 
+  * Alpaca shopping
+  * Titicaca lake? Puno
