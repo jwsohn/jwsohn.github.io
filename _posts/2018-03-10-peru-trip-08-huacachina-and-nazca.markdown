@@ -114,11 +114,11 @@ https://youtu.be/3MAPwdHIBLk
 
 ## 나스카 (Nazca)
 
-![Nazca](/assets/2018-03-10-peru-trip-08-huacachina-and-nazca/huaca-flight-info.jpg)
+![Nazca](/assets/2018-03-10-peru-trip-08-huacachina-and-nazca/nazca-flight-info.jpg)
 ![Nazca](/assets/2018-03-10-peru-trip-08-huacachina-and-nazca/nazca-before-take-off.jpg)
 
 아재들이 어렸을 적에는 소위 소년소녀잡지들이 많았습니다. 이제는 잡지 제목도
-아련한 잡지의 단골 기사 중의 하나는 세계의 불가사의한 유적들인데요. 이
+아련한 잡지의 단골 기사 중의 하나는 세계의 불가사의한 유적들 소개인데요. 이
 외계인들이 건설했을지도 모르는 신비한 고대 유적의 하나로 꼭 등장하는 것이
 나스카 지상화(地上畵, Nazca lines) 유적이 되겠습니다.
 
