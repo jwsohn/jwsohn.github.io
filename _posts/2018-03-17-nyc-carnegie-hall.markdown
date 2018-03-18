@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "여행기 외전 - 뉴욕(New York) 카네기 홀 (Carnegie Hall) 빈 필하모닉
+title:  "여행기 외전 - 뉴욕(New York) 카네기 홀(Carnegie Hall)에서 빈 필하모닉
 (Vienna Philharmonic Orchestra) 공연 관람"
 date:   2018-03-17 22:30:00 -0500
 published: no
 categories: 여행
 ---
 
-# 여행기 외전 - 뉴욕(New York) 카네기 홀 (Carnegie Hall) 빈 필하모닉 (Vienna Philharmonic Orchestra) 공연 관람
+# 여행기 외전 - 뉴욕(New York) 카네기 홀(Carnegie Hall)에서 빈 필하모닉(Vienna Philharmonic Orchestra) 공연 관람
 
 오늘은 기차타고 뉴욕가서 클래식 공연을 구경하고 오도록 해 보겠습니다. 오늘
 포스팅은 외전(外傳) 격으로 가볍게 적어보도록 하겠습니다.
@@ -21,23 +21,21 @@ categories: 여행
 베네주엘라 출신 구스타보 두다멜(Gustavo Dudamel) 공(公)이 되겠습니다. 
 
 일단 뉴욕으로 가려면 차든 뭐든 타야겠지요? 오늘은 뉴욕 주차 문제도 있고 해서
-차 안몰고 그냥 기차를 타고 가기로 했습니다. 뉴저지 트랜짓(NJ Transit)입니다.
+차를 몰지 않고 그냥 기차를 타고 가기로 했습니다. 뉴저지 트랜짓(NJ Transit)입니다.
 기차 안은 이렇게 생겼어요. 뉴저지에서 뉴욕으로 출퇴근 하는 사람들이 많이
 이용하는 열차입니다.
 
-[사진]
+![NJ Transit](/assets/2018-03-17-nyc-carnegie-hall/nj-transit.jpg)
 
 지나가다 역도 하나 사진 찍어 보구요.
 
-[사진]
+![NJ Transit station](/assets/2018-03-17-nyc-carnegie-hall/nj-transit-station.jpg)
 
-한시간 정도 지나서 드디어 뉴욕 펜스테이션(Pennsylvania Station)에 도착했습니다.
+한시간 정도 지나서 드디어 뉴욕 펜스테이션(Pennsylvania Station)에
+도착했습니다.  역내에서 공연하는 사람도 있구요. 노래 괜찮게 하셨습니다.^^
 
-[사진]
-
-역내에서 공연하는 사람도 있구요. 노래 괜찮게 하셨습니다.^^
-
-[사진]
+![Penn Station](/assets/2018-03-17-nyc-carnegie-hall/penn-station-1.jpg)
+![Penn Station](/assets/2018-03-17-nyc-carnegie-hall/penn-station-2.jpg)
 
 펜스테이션 내부의 타일 장식을 당겨 찍어 봤습니다. 100년이 된 역사가 느껴지죠?
 그 아래의 Subway 폰트는 우리가 잘 아는 Helvetica 폰트인데 이 폰트는 20세기 초
@@ -45,90 +43,103 @@ categories: 여행
 장식이 많은 폰트가 주로 쓰였다고 합니다. 나름 대비를 시켜보고 싶었는데 본 아재
 사진 실력이 영 마음에 안듭니다. ^^
 
-[폰트 사진]
+![Helvetica](/assets/2018-03-17-nyc-carnegie-hall/helvetica.jpg)
 
 펜스테이션 밖으로 나와서 거리를 찍어보았습니다. 벌써 해가 어둑어둑 지고
 있었는데요. 뉴욕의 야경은 뭐랄까 신기하게 아름답습니다. 직접 경험하면 뭔가
 지저분(?)하고 별 것 없는 것 같은데 사진을 찍어보면 괜찮게 나오는 게 많습니다.
 
-[펜스테이션 앞 사진]
+![Penn Station](/assets/2018-03-17-nyc-carnegie-hall/penn-station-out.jpg)
 
 마침 지인의 부탁으로 크리스털 전문점을 잠깐 들렀습니다. 자수정부터 각양각색의
 크리스털이 전시되어 있었는데요. 좋은 에너지를 가져다 준다는 조그만 돌덩이 두개를
 샀습니다. 뉴욕의 특이한 점의 하나는, 무엇인가 필요한 것이 있이서 찾아보면
 그것을 취급하는 가게가 한둘은 꼭 나온다는 것입니다.
 
-[크리스털 사진]
+![Crystal](/assets/2018-03-17-nyc-carnegie-hall/crystal-1.jpg)
+![Crystal](/assets/2018-03-17-nyc-carnegie-hall/crystal-2.jpg)
+![Crystal](/assets/2018-03-17-nyc-carnegie-hall/crystal-3.jpg)
+![Crystal](/assets/2018-03-17-nyc-carnegie-hall/crystal-4.jpg)
 
-간단하게 치즈 피자에 콜라를 곁들여 먹었습니다. 배고파서 먹고나서 사진을
+간단하게 치즈 피자에 콜라를 곁들여 먹었습니다. 배고파서 먹고 나서 사진을
 찍었더라는.
 
-[피자 사진]
+![Pizza](/assets/2018-03-17-nyc-carnegie-hall/pizza.jpg)
 
 이제 가야 하는 공연장인 카네기 홀은 57번가(街, street)에 위치하고 있습니다. 
 23번가부터 전철을 타고 올라가 봅니다. 마침 저 멀리 뉴욕 타임즈 건물이 보여서
-사진 하나 찍어 보았습니다.
+사진 하나 추가해 보았습니다.
 
-[전철 사진]
+![23rd st](/assets/2018-03-17-nyc-carnegie-hall/23rd-1.jpg)
+![23rd st](/assets/2018-03-17-nyc-carnegie-hall/23rd-2.jpg)
+![57th st](/assets/2018-03-17-nyc-carnegie-hall/57th-1.jpg)
+![57th st](/assets/2018-03-17-nyc-carnegie-hall/57th-2.jpg)
 
 57번가 전철역에서 내려 조금 걸어가면 카네기 홀의 모습이 나옵니다. 외부 조명을
 참 예쁘게 설치해 놓았습니다. 
 
-[카네기 홀 사진]
+![Carnegie Hall](/assets/2018-03-17-nyc-carnegie-hall/carnegie-hall-1.jpg)
+![Carnegie Hall](/assets/2018-03-17-nyc-carnegie-hall/carnegie-hall-2.jpg)
+![Carnegie Hall](/assets/2018-03-17-nyc-carnegie-hall/carnegie-hall-3.jpg)
 
 이미 입구에는 사람들로 장사진입니다. 클래식 공연을 보러 올 때마다 느끼는
-것이지만 대부분 노년 커플들이 많으십니다. ^^ 
+것이지만 대부분 노년 커플들이 많으십니다.^^ 
 
-[사람 사진]
+![Entrance](/assets/2018-03-17-nyc-carnegie-hall/entrance-1.jpg)
+![Entrance](/assets/2018-03-17-nyc-carnegie-hall/entrance-2.jpg)
+![Entrance](/assets/2018-03-17-nyc-carnegie-hall/entrance-3.jpg)
 
 오늘 지휘하시는 두다멜 공의 사진 포스터입니다. 전석 매진이라네요. 
 
-[dudamel]
+![Dudamel](/assets/2018-03-17-nyc-carnegie-hall/dudamel.jpg)
 
 카네기 홀은 정문을 들어가면 메인 홀이 이렇게 생겼습니다. 큰 공연장 치고는
 입구가 작은 느낌입니다. 아마도 오래 전 1890년대에 처음 지어진 공연장이라서
 그런 것 같습니다.
 
-[메인 홀]
+![Inside](/assets/2018-03-17-nyc-carnegie-hall/inside.jpg)
 
 오늘 본 아재의 좌석은 4층 안쪽이 되겠습니다. 카네기홀은 2층이나 3층 정의
 발코니쪽 좌석이 가격도 저렴하고 좋습니다. 이번에는 표를 조금 늦게 구하는
 바람에 이 곳 좌석을 구했습니다. 그래도 오케스트라 공연은 소리가 커서 감상에는
 지장이 없을 것 같삽니다.
 
-[사진]
+![Seat](/assets/2018-03-17-nyc-carnegie-hall/seat-1.jpg)
+![Seat](/assets/2018-03-17-nyc-carnegie-hall/seat-2.jpg)
 
 파노라마로 한번 보시죠.
 
-[파노]
+![Seat](/assets/2018-03-17-nyc-carnegie-hall/seat-pano.jpg)
 
 공연 무대는 이렇습니다.
 
-[무대]
+![Seat](/assets/2018-03-17-nyc-carnegie-hall/seat-3.jpg)
 
 오늘의 프로그램입니다. 말러 10번 1악장과 베를리오즈의 환상 교향곡입니다.
 클래식 작곡가들 사이에서는 베토벤 이후 9번을 넘어가는 교향곡을 쓰기가 어렵다는
 징크스가 있습니다. 말러 역시 9번 교향곡까지 작곡을 하고 10번을 쓰다 세상을
 떴습니다. 
 
-[프로그램]
+![Program](/assets/2018-03-17-nyc-carnegie-hall/program-1.jpg)
+![Program](/assets/2018-03-17-nyc-carnegie-hall/program-2.jpg)
 
 작곡가들 사진도 한번씩 보시구요.
 
-[사진]
-[사진]
+![Mahler](/assets/2018-03-17-nyc-carnegie-hall/mahler.jpg)
+![Berlioz](/assets/2018-03-17-nyc-carnegie-hall/berlioz.jpg)
 
 이제 기다림도 끝. 오케스트라 단원들이 입장했습니다.
 
-[사진]
+![Orchestra](/assets/2018-03-17-nyc-carnegie-hall/ready.jpg)
 
-공연을 사진으로 보여드릴 수 있으면 좋겠습니다만 그건 가능하지 않겠구요. 대신
-유튜브 동영상으로 대체해봅니다. 그래도 무려 번스타인(Bensten) 옹(翁)지휘에
-오케스트라는 여전히 빈 필하모닉입니다. 개인적으로 말러 10번 1악장을 가장 잘
-해석한 연주 중의 하나로 꼽고 있습니다. 베를리오즈 환상 교향곡도 하나 붙여
-봅니다. 마침 얀손스(Jansons) 지휘 바바리아 방송 교향악단 연주 BBC Proms 라이브
-공연 녹화가 있네요. 참고로 클래식 공연을 유튜브에서 검색 하실때 Proms 키워드를
-뒤에 붙이시면 고음질의 좋은 라이브 공연을 쉽게 찾으실 수 있습니다.
+공연을 사진으로 보여드릴 수 있으면 좋겠습니다만 대신 유튜브 동영상으로
+대체해봅니다. 그래도 무려 번스타인(Bernstein) 옹(翁) 지휘에 오케스트라는
+여전히 빈 필하모닉입니다. 개인적으로 말러 10번 1악장을 가장 잘 해석한 연주
+중의 하나로 꼽고 있습니다. 베를리오즈 환상 교향곡도 하나 붙여 봅니다. 마침
+얀손스(Jansons) 옹 지휘 바바리아 방송 교향악단 연주 BBC Proms 라이브 공연
+녹화가 있네요. 참고로 팁입니다. 클래식 공연을 유튜브에서 검색 하실 때는
+Proms 키워드를 뒤에 붙이시면 고음질의 좋은 라이브 공연을 쉽게 찾으실 수
+있습니다.
 
 https://youtu.be/vHyV8noUXC0
 https://youtu.be/yK6iAxe0oEc
@@ -138,7 +149,7 @@ https://youtu.be/yK6iAxe0oEc
 마치 빈 공간이 여유있게 있다는 느낌까지는 잡을 수 있었습니다. 그러고 보니 본
 아재의 경우 빈 필하모닉 공연은 오늘이 난생 처음이군요. 이런 호사를.
 
-두다멜 공의 말러 10번 해석도 좋았습니다. 말러 10번은 뭐랄까 생과 사의 본질적
+두다멜 공의 말러 10번 해석도 좋았습니다. 말러 10번은 뭐랄까 생과 사의 근원적
 문제를 음악으로 추구하던 말러의 스타일의 대표격이라고 할 수 있을 것 같습니다.
 인생이라는 것은 항상 완성과 미완성의 어느 한 가운데에 있을까나요. 말러의 10번
 교향곡은 단지 1악장만 남아 있지만 여전히 완성을 향한 여정 중의 아름다운 한
@@ -163,9 +174,9 @@ https://youtu.be/yK6iAxe0oEc
 피운 아내를 용서하는 느낌의 테마가 혼돈스러운 느낌들을 하나 둘 씩 잦아들게
 합니다. 참으로 아름다운 순간이지요. 인간으로서 아내에 대한 실망과 분노를
 작품에 투영하고 또 생과 사의 문제를 깊이 고민한 영원을 추구하는 존재로서
-말러는 감정을 초월해 아내 알마를 용서한다고, 그럼에도 불구하고 나는 그대를
-사랑한다고 작품 속에서 속삭이고 있습니다. 이 것이 말러 10번에는 참 감동적으로
-잘 녹아들어 있습니다. 
+말러는 감정을 승화해 아내 알마를 용서한다고, 그럼에도 불구하고 나는 그대를
+사랑한다고 작품 속에서 속삭이고 있습니다. 이것이 말러 10번에는 참 감동적으로
+녹아들어 있습니다. 
 
 두다멜 공의 지휘는 여기서 생동감을 잘 살리고 다채로운 색깔은 얹은
 느낌이었습니다. 말러 연주는 듣다보면 너무 어둡거나 심각해지는 경우가 많은데
@@ -195,23 +206,25 @@ https://youtu.be/2ZbJOE9zNjw
 시간은 금세 흘러 공연이 끝났습니다. 휴대폰을 켜고 멀리서나마 두다멜 공의
 모습을 잡아봅니다.
 
-[사진]
+![Orchestra](/assets/2018-03-17-nyc-carnegie-hall/end-1.jpg)
+![Orchestra](/assets/2018-03-17-nyc-carnegie-hall/end-2.jpg)
 
 이제 공연이 끝나고 집에 가야 할 시간입니다. 밖에 나오니 비가 오고 있습니다.
 
-[사진]
+![Outside](/assets/2018-03-17-nyc-carnegie-hall/outside-1.jpg)
+![Outside](/assets/2018-03-17-nyc-carnegie-hall/outside-2.jpg)
 
 다시 펜스테이션으로 기차를 타러 왔습니다. 마침 버스가 한대 지나가는데 낯익은
 광고가 보여서 사진을 찍어 보았습니다.
 
-[사진]
+![Penn Station](/assets/2018-03-17-nyc-carnegie-hall/going-home-1.jpg)
+![Penn Station](/assets/2018-03-17-nyc-carnegie-hall/going-home-2.jpg)
 
-집에 오니까 밤 12시가 다 되어 있었습니다. 와서 생각을 해 보니 오오 제
+집에 오니까 밤 12시가 다 되어 있었습니다. 와서 생각을 해 보니 오늘은 오오 제
 개인적으로 역사적인 날을 경험한 것이었습니다. 무려 난생처음 빈 필하모닉 공연을
 보지 않았나 그것도 좋아하는 말러의 교향곡을 직접 듣고 왔다니 말입니다.
 간단하게나마 여러분들께도 이 곳 소개도 해 보고 공연장의 모습 미흡하나마 전해
-보고 싶어서 여행기 겸 짧은 감상기를 적어 보았습니다.
+보고 싶어서 여행기 겸 짧은 감상기를 외전(外傳) 격으로 적어 보았습니다.
 
 읽어 주셔서 감사합니다.
-
 
