@@ -70,7 +70,7 @@ categories: 여행
 23번가 역부터 전철을 타고 올라가 봅니다. 마침 저 멀리 뉴욕 타임즈 건물이 보여서
 사진 하나 추가해 보았습니다.
 
-![NYT building](/assets/2018-03-17-nyc-carnegie-hall/nyt.jpg)
+![NYT building](/assets/2018-03-17-nyc-carnegie-hall/nyt-building.jpg)
 ![23rd st](/assets/2018-03-17-nyc-carnegie-hall/23rd-1.jpg)
 ![23rd st](/assets/2018-03-17-nyc-carnegie-hall/23rd-2.jpg)
 ![57th st](/assets/2018-03-17-nyc-carnegie-hall/57th-1.jpg)
@@ -216,7 +216,7 @@ https://youtu.be/2ZbJOE9zNjw
 ![Outside](/assets/2018-03-17-nyc-carnegie-hall/outside-2.jpg)
 
 다시 펜스테이션으로 기차를 타러 왔습니다. 마침 버스가 한대 지나가는데 낯익은
-광고가 보여서 사진을 찍어 보았습니다.
+광고가 보여서 사진을 찍어 보았습니다. 아아니 뉴욕에 무려 신라면이라니요.
 
 ![Penn Station](/assets/2018-03-17-nyc-carnegie-hall/going-home-1.jpg)
 ![Penn Station](/assets/2018-03-17-nyc-carnegie-hall/going-home-2.jpg)
