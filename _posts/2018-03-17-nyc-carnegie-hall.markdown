@@ -3,7 +3,7 @@ layout: post
 title:  "여행기 외전 - 뉴욕(New York) 카네기 홀(Carnegie Hall)에서 빈 필하모닉
 (Vienna Philharmonic Orchestra) 공연 관람"
 date:   2018-03-17 22:30:00 -0500
-published: no
+published: yes
 categories: 여행
 ---
 
