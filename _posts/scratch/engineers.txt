@@ -1,9 +1,9 @@
-이공계 대학생/대학원생을 위한 computing
+# 이공계 대학생/대학원생을 위한 computing
 
-# Laptop: consider mac or thinkpad. Consider 2-in-1s for notetaking.
+## Laptop: consider mac or thinkpad. Consider 2-in-1s for notetaking.
   - at least 1080p for pdf reading. Better resolution reommended.
 
-# Linux computer
+## Linux computer
   * Why Linux? Best OS for scientific/engineering computing
   * Linux VM 
     - Go for Ubuntu server. Simpler. More applications.
@@ -11,26 +11,28 @@
   * Editor on Linux (must be terminal based)
     - vi or emacs
 
-# Latex
+## Latex
+  * Markdown: you already know it
   * Why latex? Math publication. Notetaking at MIT?
   * Latex
   * Bibtex - paper reading
 
-# Computing language
+## Computing language
   * Java and JDK (well designed)
   * Python
-    - matplotlib or matlab
+    - matplotlib or matlab (matrix computation)
     - numpy and scipy
   * R. But not for application development.
 
-# Statitstics
+## Statitstics
   * Stats intro
     - 5xx level
   * Data mining
 
-# Mathematics
+## Mathematics
   * Linear Algebra. Advanced.
 
-# Writing
+## Writing
   * blogging
-  * Coding
+  * Coding - GitHub and git
+
