@@ -12,6 +12,8 @@
   * 시작한지 2달. 120 팔로워. 평판도 42.
   * 여행기 위주. 항상 kr-travel kr kr-newbie kr-writing jjangjjangman에 투고 
   * posting에 voting 횟수, 금액 그래프.
+    - voting 횟수: 완만한 상승세
+    - voting 금액: 큰 차이 없음. 소위 고래 보팅이 잘 없는 듯. 
 
 ### 느낌
   * 안정세 - 평판도가 올라가면서 내 글이 꾸준히 읽힌다 
