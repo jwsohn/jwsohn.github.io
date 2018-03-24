@@ -13,6 +13,7 @@
 
 ## Latex
   * Markdown: you already know it
+    - Readdocs.io, github.io, etc.
   * Why latex? Math publication. Notetaking at MIT?
   * Latex
   * Bibtex - paper reading
