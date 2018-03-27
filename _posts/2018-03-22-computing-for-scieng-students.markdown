@@ -129,7 +129,7 @@ pdf 문서를 화면으로 편하게 읽기 위해서는 2018년 초 현재 기�
 
 ### 맥북 프로 (MacBook Pro)
 
-![Macbook Pro](/assets/macbook-pro.jpg)
+![Macbook Pro](/assets/2018-03-22-computing-for-scieng-students/macbook-pro.jpg)
 
 제 개인적으로는 폐쇄적인 정책 때문에 애플 제품을 그다지 선호하지는 않습니다.
 하지만 맥북 프로의 경우는 비싸도 그만한 가치를 하는 기계라고 생각해서 추천 1
@@ -162,7 +162,7 @@ pdf 문서를 화면으로 편하게 읽기 위해서는 2018년 초 현재 기�
 
 ### Thinkpad 시리즈
 
-![Thinkpad](/assets/thinkpad-t480.jpg)
+![Thinkpad](/assets/2018-03-22-computing-for-scieng-students/thinkpad-t480.jpg)
 
 네. 제가 쓰고 있는 Thinkpad 시리즈 되겠습니다.
 
@@ -189,7 +189,7 @@ Thinkpad의 경우 사용자가 직접 부품을 교체하기가 쉬운 편입�
 
 ### 서피스 프로 4 (Surface Pro 4)
 
-![Surface pro 4](/assets/microsoft-surface-pro-4.jpg)
+![Surface pro 4](/assets/2018-03-22-computing-for-scieng-students/microsoft-surface-pro-4.jpg)
 
 마이크로소프트는 소프트웨어보다 하드웨어를 잘 만든다는 농담이 있는데요. 서피스
 프로 역시 이 말에 걸맞는(?) 제품인 것 같습니다. 
@@ -225,7 +225,7 @@ stylus)도 지원하는 까닭에 직접 필기를 할 수도 있습니다.
 
 ### Asus 젠북(Zenbook) 시리즈
 
-![Asus Zenbook](/assets/asus-zenbook.jpg)
+![Asus Zenbook](/assets/2018-03-22-computing-for-scieng-students/asus-zenbook.jpg)
 
 상대적으로 잘 알려져 있지 않은 업체가 Asus입니다만 Asus Zenbook 시리즈는
 가격대 성능비가 참 좋습니다. 2018년 초 현재 제품에 기본으로 1920x1080 해상도에
@@ -260,7 +260,7 @@ CPU 속도에 정말로 욕심을 내지 않아도 되는 분들은 여기서 Co
 
 ### Thinkpad X220
 
-![Thinkpad X220](/assets/thinkpad-x220.jpg)
+![Thinkpad X220](/assets/2018-03-22-computing-for-scieng-students/thinkpad-x220.jpg)
 
 사양:
   * 화면: 12인치 1366x768 IPS 패널
@@ -281,7 +281,7 @@ SSD를 업그레이드 해서 지금도 계속 쓰고 있습니다. 하나 아�
 
 ### Thinkpad X1 Tablet 
 
-![Thinkpad X1 Tablet](/assets/thinkpad-x1-tablet.jpg)
+![Thinkpad X1 Tablet](/assets/2018-03-22-computing-for-scieng-students/thinkpad-x1-tablet.jpg)
 
 사양:
   * 화면: 12인치 2160x1440
