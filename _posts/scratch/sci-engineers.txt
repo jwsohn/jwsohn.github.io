@@ -1,7 +1,10 @@
 # 이공계 대학생/대학원생을 위한 computing
 
 ## Laptop: consider mac or thinkpad. Consider 2-in-1s for notetaking.
-  - at least 1080p for pdf reading. Better resolution reommended.
+  * at least 1080p for pdf reading. Better resolution recommended.
+
+## Before Linux computer...
+  * Tips for installing programs 
 
 ## Linux computer
   * Why Linux? Best OS for scientific/engineering computing
