@@ -40,3 +40,6 @@
   * blogging
   * Coding - GitHub and git
 
+## Reading
+  * Safari - O'Reilly guides
+
