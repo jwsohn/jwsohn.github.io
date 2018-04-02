@@ -15,7 +15,7 @@ categories: 강좌
 
 ## 리눅스(Linux) 소개
 
-[!Tux the Linux
+![Tux the Linux
 penguin](/assets/2018-03-28-computing-for-scieng-students-02/linux-penguin/jpg)
 (그림: 리눅스 운영체제의 마스코트 펭귄 Tux)
 
@@ -100,7 +100,7 @@ penguin](/assets/2018-03-28-computing-for-scieng-students-02/linux-penguin/jpg)
 
 ### 직접 내 컴퓨터에 깔기 
 
-[!Ubuntu Desktop](/assets/2018-03-28-computing-for-scieng-students-02/ubuntu-desktop.jpg)
+![Ubuntu Desktop](/assets/2018-03-28-computing-for-scieng-students-02/ubuntu-desktop.jpg)
 
 내 컴퓨터에 직접 리눅스를 설치해도 되겠습니다. 하지만 굳이 깔려있는
 윈도우나 맥 오에스를 지우고 리눅스를 설치할 필요 까지는 없다고 생각합니다. 
@@ -137,7 +137,7 @@ penguin](/assets/2018-03-28-computing-for-scieng-students-02/linux-penguin/jpg)
 우선 제 컴퓨터에서 제가 쓰는 개인 리눅스 서버에 접속하는 모습을 한번 보시겠습니다.
 (개인 프라이버시상 아이피 주소 관련 정보를 지운 점 양해 부탁드립니다.)
 
-[!ssh to my
+![ssh to my
 server](/assets/2018-03-28-computing-for-scieng-students-02/ssh-to-my-server.png)
 
 텍스트 모드의 터미널(Terminal) 프로그램에서 
@@ -182,7 +182,7 @@ secure FTP를 지원하는 파일 전송 프로그램은 무엇이 좋을까요?
 
 #### 리눅스 서버 접속: MobaXTerm
 
-[!mobaxterm](/assets/2018-03-28-computing-for-scieng-students-02/mobaxterm.png)
+![mobaxterm](/assets/2018-03-28-computing-for-scieng-students-02/mobaxterm.png)
 
 MobaXTerm에서 리눅스 서버에 접속하는 화면입니다. 아까 터미널의 예와 같이
 똑같은 `ssh [server ip address] -l [account name]`을 입력하고 엔터키를
@@ -190,7 +190,7 @@ MobaXTerm에서 리눅스 서버에 접속하는 화면입니다. 아까 터미�
 
 #### 파일 전송: WinScp
 
-[!winscp](/assets/2018-03-28-computing-for-scieng-students-02/winscp.png)
+![winscp](/assets/2018-03-28-computing-for-scieng-students-02/winscp.png)
 
 WinScp를 통해서 서버 컴퓨터의 디스크에 접속한 화면입니다. 화면 왼쪽이 제
 윈도우 컴퓨터의 파일 리스팅이고 오른쪽이 원격으로 접속한 제 리눅스 서버의 파일
@@ -217,7 +217,7 @@ secure FTP 파일 전송은 CyberDuck (http://cyberduck.io)을 개인적으로
 
 ### [Harley Hahn's "A Student's Guide to UNIX"](https://www.google.com/search?num=20&client=firefox-b-1-ab&ei=iX3BWrmKBo3w_Aa995nYCQ&q=harley+hahn+a+guide+to+unix&oq=harley+hahn+a+guide+to+unix&gs_l=psy-ab.3..35i39k1j0i22i30k1l6.3806.4394.0.4682.4.4.0.0.0.0.146.524.0j4.4.0....0...1.1.64.psy-ab..0.4.516....0.xE_ekinu5uM)
 
-[!Guide to Unix](/assets/2018-03-28-computing-for-scieng-students-02/guide-to-unix.png)
+![Guide to Unix](/assets/2018-03-28-computing-for-scieng-students-02/guide-to-unix.png)
 
 최근에는 이 책이 이름이 Guide to Unix & Linux로 바뀌면서 1st edition으로
 판본까지 바꾼 것 같습니다만 구 판본을 구하셔도 기본 내용에는 큰 차이가 없을
