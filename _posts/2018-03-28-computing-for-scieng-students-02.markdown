@@ -15,8 +15,8 @@ categories: 강좌
 
 ## 리눅스(Linux) 소개
 
-![Tux the Linux
-penguin](/assets/2018-03-28-computing-for-scieng-students-02/linux-penguin/jpg)
+![Tux the Linux penguin](/assets/2018-03-28-computing-for-scieng-students-02/linux-penguin.jpg)
+
 (그림: 리눅스 운영체제의 마스코트 펭귄 Tux)
 
 리눅스는 마이크로소프트 윈도우(Microsot Windows), 애플의 맥 오에스(Mac OS X)와
@@ -63,7 +63,7 @@ penguin](/assets/2018-03-28-computing-for-scieng-students-02/linux-penguin/jpg)
 컴퓨터에 직접 설치해 쓰는 경우가 많았습니다. 그러나 요즘은 환경이 바뀌어서
 리눅스를 반드시 내 컴퓨터에 설치해야 할 필요성은 줄어들고 있는 추세입니다.
 
-### 학교 계정, 혹은 웹 호스팅 계정 
+### 학교 리눅스 서비스 계정
 
 **가장 쉬우면서 필수인 방법**입니다. 학교 리눅스 서버(server) 컴퓨터에 내 계정을
 하나 만드는 것입니다. 학교 전산소와 같은 시설에는 반드시 리눅스 서버가 있고
@@ -150,7 +150,7 @@ server](/assets/2018-03-28-computing-for-scieng-students-02/ssh-to-my-server.png
 
 이런 원시적인 환경이 뭐가 좋냐구요? 그건 차근차근히 배워가시길 부탁드립니다.
 참고로, 리눅스를 배우는 것은 자동차 운전을 배우는 것과 비슷합니다. 운전을
-배우려면 신경쓸 일이 많습니다. 운전 기본 지식, 교통 법규, 보험 등등의 지식을
+배우려면 신경 쓸 일이 많습니다. 운전 기본 지식, 교통 법규, 보험 등등의 지식을
 학습해야 하고 실제 차를 몰고 운전 실습도 해야 합니다. 시간이 걸리고 힘든
 일이지요. 하지만 한번만 운전을 잘 배워 면허까지 따 놓으면 평생 동안 자동차라는
 문명의 이기를 편하게 쓸 수 있습니다.
@@ -173,8 +173,8 @@ server](/assets/2018-03-28-computing-for-scieng-students-02/ssh-to-my-server.png
 그러면 여러분들이 많이 쓰는 윈도우 컴퓨터에서 리눅스 서버에 다시 접속을 해
 보도록 하겠습니다. 우선, secure shell 연결을 지원하는 터미널 프로그램(터미널
 에뮬레이터(terminal emulator)라고 합니다.)은 무엇을 쓰는 것이 좋을까요? 
-보통 putty (https://www.chiark.greenend.org.uk/~sgtatham/putty)가 유명한데
-제 개인적으로는 MobaXTerm (https://mobaxterm.mobatek.net)을 쓰시는 것을 추천합니다.
+보통 putty (https://www.chiark.greenend.org.uk/~sgtatham/putty) 가 유명한데
+제 개인적으로는 MobaXTerm (https://mobaxterm.mobatek.net) 을 쓰시는 것을 추천합니다.
 
 secure FTP를 지원하는 파일 전송 프로그램은 무엇이 좋을까요? WinScp
 (https://winscp.net) 라는 프로그램을 추천합니다. 자, 이제 리눅스 서버에 접속을
@@ -225,14 +225,14 @@ secure FTP 파일 전송은 CyberDuck (http://cyberduck.io)을 개인적으로
 하나하나 따라가시면 되겠습니다.
 
 그러면 리눅스를 기본으로 쓸 줄 안다는 것은 어디까지를 의미할까요? 기본적으로
-파일 관리 (file management)를 command line에서 하실 줄 알고 텍스트 에디터를
+파일 관리 (file management)를 command line에서 할 줄 알고 텍스트 에디터를
 이용해서 문서를 작성 할 줄 알면 충분하겠습니다. 텍스트 에디터는 기본으로 vi
 에디터(혹은 vim)나 emacs 에디터 둘 중 하나만 하시면 되겠습니다. 
 
 ### [The Linux Documentation Project](http://tldp.org)
 
 리눅스 관련 무료 문서들을 모아놓은 곳입니다. Guides 링크로 가셔서 
-Introductino to Linux - A Hands on Guide를 보시면 되겠습니다. 이 외에도
+Introduction to Linux - A Hands on Guide를 보시면 되겠습니다. 이 외에도
 찾아보시면 여러가지 리눅스 기본 튜토리얼 문서가 많이 있습니다.
 
 ### [KLDP Wiki](https://wiki.kldp.org/wiki.php)
