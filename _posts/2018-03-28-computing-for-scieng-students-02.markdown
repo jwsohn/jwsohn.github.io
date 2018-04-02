@@ -3,7 +3,7 @@ layout: post
 title:  "이공계 대학생/대학원생을 위한 컴퓨팅 강좌 2: 이공계의 컴퓨팅 전용 운전면허증 -
 리눅스(Linux) 사용"
 date:   2018-03-28 22:30:00 -0500
-published: no
+published: yes
 categories: 강좌
 ---
 
