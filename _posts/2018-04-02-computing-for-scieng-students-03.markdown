@@ -33,20 +33,20 @@ print "Hello, World!"
 
 파이썬(Python) 언어로 Hello, World!를 출력해 보겠습니다. 제일 처음 해야 할
 것은 리눅스 서버에 MobaXTerm과 같은 터미널 에뮬레이터에서 접속을 한 다음
-에디터를 이용해서 hello.py 파일을 작성해야 하겠습니다. 아직까지 vi나 emacs
+에디터를 이용해서 `hello.py` 파일을 작성해야 하겠습니다. 아직까지 vi나 emacs
 에디터를 배우지 않은 관계로 간단한 nano 에디터를 이용해 편집을 해 보겠습니다.
 리눅스 명령어 프롬프트(command prompt)에서 다음 명령을 입력하면 되겠습니다.
 
 ```
 nano hello.py
 ```
-그리고 다음 화면 처럼 hello.py 프로그램을 입력해 봅시다. Ctrl-X 키로 파일을
+그리고 다음 화면 처럼 `hello.py` 프로그램을 입력해 봅시다. Ctrl-X 키로 파일을
 저장하고 nano 에디터를 종료하면 다시 리눅스 명령어 프롬프트(shell이라고
 합니다.)로 돌아옵니다.
 
 ![Nano editor](/assets/2018-04-02-computing-for-scieng-students-03/nano-hello-py.png)
 
-hello.py 파이썬 프로그램은 다음과 같이 실행시키면 됩니다. 간단하죠?
+`hello.py` 파이썬 프로그램은 다음과 같이 실행시키면 됩니다. 간단하죠?
 ```
 python hello.py
 ```
@@ -66,11 +66,12 @@ void main()
 ```
 
 C 언어로 만든 Hello, World! 프로그램은 실행 파일을 만들기 위해서
-컴파일(compile)과정이 필요합니다. hello.c 소스 코드(source code)를 CPU가 직접
-실행할 수 있는 기계어 (machine language)로 번역을 해야 하는 과정이지요.
-리눅스에는 gcc가 대표적인 C 언어 컴파일러(compiler)가 되겠습니다.  아까와
-마찬가지로 nano 에디터로 hello.c 프로그램을 편집하고 다음 명령을 실행합니다.
--o 옵션(option) 뒤의 hello는 실행파일의 이름을 hello로 하겠다는 의미입니다.
+컴파일(compile) 과정이 필요합니다. 여기서 컴파일이란 `hello.c` 소스 코드
+(source code)를 CPU가 직접 실행할 수 있는 기계어 (machine language)로 번역을
+하는 과정입니다.  리눅스에는 gcc가 대표적인 C 언어 컴파일러(compiler)가
+되겠습니다.  아까와 마찬가지로 nano 에디터로 `hello.c` 프로그램을 편집하고
+다음 명령을 실행합니다.  -o 옵션(option) 뒤의 hello는 실행파일의 이름을
+`hello`로 하겠다는 의미입니다.
 
 ```
 gcc hello.c -o hello
@@ -100,10 +101,10 @@ public class HelloWorld
 `python hello.py`와 비슷하지요? 자세한 것은 프로그래밍 언어 수업 시간에
 배우시기 바랍니다. :)
  
-자바의 경우는 소스 코드의 파일 이름이 독특하지요? hello.java로 할 수 있으면
+자바의 경우는 소스 코드의 파일 이름이 독특하지요? `hello.java`로 할 수 있으면
 좋을 텐데 자바에서는 class 이름과 소스 코드의 이름이 똑같아야 하는 제한이
 있습니다. class 이름을 HelloWorld로 줬기 때문에 소스 코드 파일 이름 역시
-HelloWorld로 해야 하겠습니다.
+`HelloWorld.java`로 해야 하겠습니다.
 
 컴파일:
 ```
@@ -129,8 +130,8 @@ Python이 많이 쓰이는 관계로 주춤하고 있지만 여전히 사용자�
 
 파이썬이나 펄과 같은 스크립트 언어는 소스코드를 기계어로 번역하는 컴파일 과정이
 필요하지 않습니다. 대신 인터프리터(interpreter)라는 프로그램을 통해서 
-한줄씩 명령을 읽고 수행합니다. 위의 파이썬의 예에서는 python이 인터프리터가
-되겠구요. 여기서는 perl이 인터프리터가 되겠습니다.
+한줄씩 명령을 읽고 수행합니다. 위의 파이썬의 예에서는 `python`이 인터프리터가
+되겠구요. 여기서는 `perl`이 인터프리터가 되겠습니다.
 
 실행:
 ```
@@ -168,7 +169,7 @@ pdflatex hello.tex
 문법도 일관성이 있어 어렵지 않습니다.
 
 이제 조금 더 나아가서 리눅스에서 LaTeX으로 문서를 만들어 보겠습니다. 굳이 
-LaTeX을 선택한 이유는 이미 여러분들이 Steemit에 포스팅을 하면서 Markdown으로
+LaTeX을 선택한 이유는 이미 여러분들이 SteemIt에 포스팅을 하면서 Markdown으로
 문서를 작성하는데 익숙하기 때문입니다. 한번 LaTeX의 문법을 Markdown과 비교해
 볼까요?
 
