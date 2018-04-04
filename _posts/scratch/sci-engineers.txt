@@ -20,8 +20,12 @@
   * Why latex? Math publication. Notetaking at MIT?
   * Latex
   * Bibtex - paper reading
+  * Comparison with Markdown
+  * equations
+  * report
+  * table of contents
 
-## Computing language
+## Programming
   * Java and JDK (well designed)
   * Python
     - matplotlib or matlab (matrix computation)
