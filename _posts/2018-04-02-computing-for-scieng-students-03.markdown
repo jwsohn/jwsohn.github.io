@@ -3,7 +3,7 @@ layout: post
 title:  "이공계 대학생/대학원생을 위한 컴퓨팅 강좌 3: 리눅스(Linux)에서
 프로그램을 만들어 보자"
 date:   2018-03-28 22:30:00 -0500
-published: no
+published: yes
 categories: 강좌
 ---
 
@@ -45,14 +45,16 @@ nano hello.py
 
 그리고 다음 화면과 같이 `hello.py` 프로그램을 입력해 봅시다. 입력이 끝난 뒤
 Ctrl-X 키로 파일을 저장하고 nano 에디터를 종료하면 다시 리눅스 명령어
-프롬프트(shell이라고 합니다.)로 돌아옵니다.
+프롬프트(shell이라고 합니다)로 돌아옵니다.
 
 ![Nano editor](/assets/2018-04-02-computing-for-scieng-students-03/nano-hello-py.png)
 
 `hello.py` 파이썬 프로그램은 다음과 같이 실행시키면 됩니다. 간단하죠?
+
 ```
 python hello.py
 ```
+
 그러면 다음 화면과 같은 출력을 얻을 수 있겠습니다.
 
 ![hello.py](/assets/2018-04-02-computing-for-scieng-students-03/python-hello-py.png)
@@ -73,7 +75,7 @@ C 언어로 만든 Hello, World! 프로그램은 실행 파일을 만들기 위�
 (source code)를 CPU가 직접 실행할 수 있는 기계어 (machine language)로 번역을
 하는 과정입니다.  리눅스에서는 `gcc`가 대표적인 C 언어 컴파일러(compiler)가
 되겠습니다. 아까와 마찬가지로 nano 에디터로 `hello.c` 프로그램을 편집하고
-다음 명령을 실행합니다.  -o 옵션(option) 뒤의 hello는 실행파일의 이름을
+다음 명령을 실행합니다. -o 옵션(option) 뒤의 hello는 실행파일의 이름을
 `hello`로 하겠다는 의미입니다.
 
 ```
@@ -164,8 +166,8 @@ LaTeX은 pdf 문서 조판 시스템입니다. 그러니까 LaTeX은 문서 작�
 pdflatex hello.tex
 ```
 
-만들어진 hello.pdf 파일은 WinScp와 같은 secure FTP 프로그램으로 내 컴퓨터에
-가져 와서 보면 되겠습니다. pdf 파일 캡춰도 한번 보시지요.
+컴파일 이후 만들어진 hello.pdf 파일은 WinScp와 같은 secure FTP 프로그램으로 내
+컴퓨터에 가져 와서 보면 되겠습니다. pdf 파일 캡춰도 한번 보시지요.
 
 ![Hello World pdf](/assets/2018-04-02-computing-for-scieng-students-03/hello-world-pdf.png)
 
