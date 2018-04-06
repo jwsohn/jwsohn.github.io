@@ -22,6 +22,8 @@ categories: 강좌
 
 문서의 글제목 (Heading) 넣기를 비교해보겠습니다. 아주 비슷하죠?
 
+|글제목             | Markdown          | LaTeX
+|-------------------|-------------------|---------------------------|
 |# Heading 1        |`# Heading 1`      |`\section{Heading 1}`      |
 |## Heading 2       |`## Heading 2`     |`\subsection{Heading 2}`   |
 |### Heading 3      |`### Heading 3`    |`\subsubsection{Heading 3}`|
