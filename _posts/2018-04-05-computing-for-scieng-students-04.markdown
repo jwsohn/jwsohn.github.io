@@ -67,44 +67,43 @@ Hello, World
 
 ### Headings
 
-여기에 위에서 배운 글제목을 넣어 보겠습니다. 추가로 문서 제목과 작성일,
-글쓴이 이름도 넣어보지요.
+여기에 위에서 배운 글제목을 넣어 보겠습니다. 추가로 문서 제목과 작성일, 글쓴이
+이름도 넣어보지요. 소스 코드(source code)를 읽기 편하게 들여
+쓰기(indentation)을 넣어 봤습니다.
 
 ```latex
-\documentclass{article}
+\documentclass{article}    
 
-\usepackage{droid}
+\begin{document}           
 
-\begin{document}
+    \title{Hello, world. Welcome to \LaTeX!}          
+    \author{jwsohn}        
+    \date{April 2018}      
 
-\title{Hello, world. Welcome to \LaTeX!}
-\author{jwsohn}
-\date{April 2018}
+    \maketitle             
 
-\maketitle
+    \section{Introduction} 
+    This is introduction.  
 
-\section{Introduction}
-This is introduction.
+    \section{Literature Review}                       
+    Literatures go here.   
 
-\section{Literature Review}
-Literatures go here.
+    \section{Experiment}   
 
-\section{Experiment}
+        \subsection{Model} 
+        Your fine model.   
 
-\subsection{Model}
-Your fine model.
+        \subsection{Experimental Design}              
+        Experimental design is important.             
 
-\subsection{Experimental Design}
-Experimental design is important.
+        \subsection{Result}
+        Your awesome results.                         
 
-\subsection{Result}
-Your awesome results.
+    \section{Discussion}   
+    Discuss your results.
 
-\section{Discussion}
-Discuss your results.
-
-\section{Conclusion}
-Final conclusive remarks.
+    \section{Conclusion}
+    Final conclusive remarks.
 
 \end{document}
 ```
