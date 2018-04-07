@@ -12,8 +12,8 @@ categories: 강좌
 안녕하세요. @jwsohn입니다. 오늘 포스팅에서는 수식이 많고 논리적인 짜임새가
 필요한 이공계 문서 작성의 필수 도구인 LaTeX을 쓰는 방법에 대해 간단히
 알아보도록 하겠습니다. 참고로, LaTeX은 스티미언들에게 익숙한
-마크다운(Markdown)과 비슷한 문법을 쓰기 때문에 스티미언들은 더 친숙하게 배울 수
-있는 장점이 있습니다.
+마크다운(Markdown)과 비슷한 문법을 쓰기 때문에 스티미언들은 더 친숙하게 배울
+수 있는 장점이 있습니다.
 
 
 ## LaTeX이란?
@@ -67,7 +67,47 @@ Hello, World
 
 ### Headings
 
-여기에 위에서 배운 글제목을 넣어 보겠습니다.
+여기에 위에서 배운 글제목을 넣어 보겠습니다. 추가로 문서 제목과 작성일,
+글쓴이 이름도 넣어보지요.
+
+```latex
+\documentclass{article}
+
+\usepackage{droid}
+
+\begin{document}
+
+\title{Hello, world. Welcome to \LaTeX!}
+\author{jwsohn}
+\date{April 2018}
+
+\maketitle
+
+\section{Introduction}
+This is introduction.
+
+\section{Literature Review}
+Literatures go here.
+
+\section{Experiment}
+
+\subsection{Model}
+Your fine model.
+
+\subsection{Experimental Design}
+Experimental design is important.
+
+\subsection{Result}
+Your awesome results.
+
+\section{Discussion}
+Discuss your results.
+
+\section{Conclusion}
+Final conclusive remarks.
+
+\end{document}
+```
 
 ### 문서 기본 템플릿 (template)
 
