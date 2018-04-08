@@ -7,7 +7,7 @@ published: yes
 categories: 강좌
 ---
 
-# 이공계 대학생/대학원생을 위한 컴퓨팅 강좌 4
+# 이공계 대학생/대학원생을 위한 컴퓨팅 강좌 4: 이공계 문서 작성의 필수 도구 - LaTeX에 대해 알아보자
 
 안녕하세요. @jwsohn입니다. 오늘 포스팅에서는 수식이 많고 논리적인 짜임새가
 필요한 이공계 문서 작성의 필수 도구인 LaTeX을 쓰는 방법에 대해 간단히
@@ -210,7 +210,7 @@ LaTeX에서 기본으로 주는 여백이 너무 넓은 것 같은가요? `\usep
 \end{equation}
 
 \begin{equation}
-    x = \frac{-b \pm \sqrt{b^2 - 4ac}{2a}
+    x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 \end{equation}
 
 \begin{equation}
