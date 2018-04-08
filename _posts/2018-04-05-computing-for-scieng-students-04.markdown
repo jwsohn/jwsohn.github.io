@@ -2,7 +2,7 @@
 layout: post
 title:  "이공계 대학생/대학원생을 위한 컴퓨팅 강좌 4: 이공계 문서 작성의
 필수 도구 - LaTeX에 대해 알아보자"
-date:   2018-03-28 22:30:00 -0500
+date:   2018-04-08 22:30:00 -0500
 published: no
 categories: 강좌
 ---
@@ -113,7 +113,7 @@ Hello, World!
 `pdflatex hello.tex` 명령어로 컴파일을 하면 다음과 같은 pdf 파일이 기본으로
 생성됩니다.
 
-![hello.pdf](/assets/2018-04-02-computing-for-scieng-students-04/hello-capture.png)
+![hello.pdf](/assets/2018-04-08-computing-for-scieng-students-04/hello-capture.png)
 
 ### 문서 기본 템플릿 (template)
 
@@ -136,7 +136,7 @@ LaTeX은 구조적인 글쓰기를 강제(?)하는 특성이 있습니다. 그�
 book, report, letter 등을 쓰실 수 있는데요. 한번 재미삼아 논문 스타일을 써
 볼까요? `\documentclass{IEEEtran}`을 쓰면 다음과 같은 pdf 출력이 나옵니다.
 
-![hello-ieeetran.pdf](/assets/2018-04-02-computing-for-scieng-students-04/hello-ieeetran-capture.png)
+![hello-ieeetran.pdf](/assets/2018-04-08-computing-for-scieng-students-04/hello-ieeetran-capture.png)
 
 다음에는 글 전체의 폰트를 바꾸어 보겠습니다. LaTeX에서 기본으로 지원하는
 폰트는 Computer Modern이라는 폰트인데 실제 출력을 해 보면 가독성이나 미적인
@@ -160,7 +160,7 @@ book, report, letter 등을 쓰실 수 있는데요. 한번 재미삼아 논문 
 
 (이하 생략)
 ```
-![hello-times.pdf](/assets/2018-04-02-computing-for-scieng-students-04/hello-times-capture.png)
+![hello-times.pdf](/assets/2018-04-08-computing-for-scieng-students-04/hello-times-capture.png)
 
 LaTeX에서 기본으로 주는 여백이 너무 넓은 것 같은가요? `\usepackage{fullpage}`
 명령을 추가하면 되겠습니다.
@@ -201,47 +201,161 @@ LaTeX에서 기본으로 주는 여백이 너무 넓은 것 같은가요? `\usep
 \begin{equation}
     a^2 + b^2 = c^2
 \end{equation}
-```
 
-```latex
 \begin{equation}
     \sum_{i=1}^{n} i = \frac{1}{2} n (n + 1)
 \end{equation}
-```
 
-```latex
 \begin{equation}
     x = \frac{-b \pm \sqrt{b^2 - 4ac}{2a}
 \end{equation}
-```
 
-```latex
 \begin{equation}
     \int f'(x)g(x) dx = f(x)g(x) - \int f(x)g'(x) dx
 \end{equation}
 ```
 
-LaTeX으로 컴파일 하면 다음과 같이 출력됩니다. 수식에 기본으로 (1), (2), (3)과
-같이 수식 번호가 자동으로 붙음을 볼 수 있습니다. 이 역시 나중에 한번 쓴 수식을
-다시 언급할 때 편리합니다. 물론, 수식 번호를 생략하는 명령어 옵션도
-있겠습니다.
+LaTeX으로 컴파일 하면 다음과 같이 출력됩니다. 수식에 기본으로 (1), (2), (3),
+(4)와 같이 수식 번호가 자동으로 붙음을 볼 수 있습니다. 이 역시 나중에 한번 쓴
+수식을 다시 언급할 때 편리합니다. 물론, 수식 번호를 생략하는 명령어 옵션도
+있겠습니다. 참고로 수식 외에도 그림(figure), 표(table)와 같은 항목에도 번호가
+자동으로 붙습니다.
 
-![Equations](/assets/2018-04-02-computing-for-scieng-students-04/equations-capture.png)
-
-
-#### equation reference
-
-### Table of Contents
-
-### DocumentClass
+![Equations](/assets/2018-04-08-computing-for-scieng-students-04/equations-capture.png)
 
 ### Reference (BibTeX)
 
+LaTeX의 또 하나의 장점 중 하나는 참고 문헌 (References) 관리입니다. LaTeX
+자체에서 관리할 수도 있지만 가능하다면 BibTeX이라는 추가 도구를 사용하기를
+권장합니다. 특히, 논문을 써야 하는 대학원생의 경우 BibTeX을 사용해서 자신이
+갖고 있는 논문 리스트를 만드는 것이 논문을 쓸 때 많은 도움이 됩니다.
+BibTeX에서 인용만 하면 자동으로 References 섹션에 스타일에 맞추어 참고
+문헌들이 자동으로 들어가게 됩니다.
+
+BibTeX으로 자신의 논문 리스트를 만드는 것은 비유하자면 자신의 mp3 컬렉션을
+관리하는 것과 비슷합니다. 하드 디스크에 저장되어 있는 mp3 파일들을
+아이튠즈(iTnues)나 다른 mp3 관리 프로그램을 이용해서 정리하는 것이죠. 
+이렇게 내 mp3 컬렉션이 관리 프로그램을 통해 정리가 되면 나중에 듣고 싶은 mp3를
+찾아 오기가 편리합니다.
+
+논문도 마찬가지입니다. 연구나 공부를 하다보면 내 일과 관련된 논문들이 나오게
+되는데요. 이때마다 mp3 관리 프로그램을 통해 mp3를 등록해 두듯이 논문 관리
+프로그램인 BibTeX을 통해서 논문 정보를 등록해 놓을 필요가 있는 것이죠. 
+참고로 마이크로소프트 워드 환경에서는 상용인 EndNote 프로그램이 유명합니다.
+
+일단 BibTeX의 논문 정보 형식을 한번 볼까요? 이런 엔트리들을 모아 예를 들어
+`my-readings-collection.bib` 파일에 저장합니다.
+
+```BibTeX
+@ARTICLE{gode-sunder-1993,
+  author = {Gode, Dhananjay K. and Sunder, Shyam},
+  title = {Allocative Efficiency of Markets with Zero-Intelligence Traders:
+    Market as a Partial Substitute for Individual Rationality},
+  journal = {Journal of Political Economy},
+  year = {1994},
+  volume = {101},
+  pages = {119--137}, 
+  number = {1},
+  month = feb,
+  issn = {0022--3808},
+  shorttitle = {Allocative Efficiency of Markets with Zero-Intelligence
+Traders},
+  abstract = {},
+  url = {http://www.jstor.org/stable/2138676}
+}
+```
+
+BibTeX 논문 정보는 굳이 하나하나 손으로 다 쳐서 만들 필요는 없습니다. 요즘은
+왠만한 학술 데이터베이스들이 BibTeX 포맷을 지원하니까요. 한번 Google
+Scholar에서 저 논문을 찾아봅시다.
+
+![Google Scholar](/assets/2018-04-08-computing-for-scieng-students-04/gode-sunder-1993.png)
+
+여기서 따옴표 인용 아이콘을 클릭하면 다음과 같은 참고 문헌 정보가 나옵니다.
+여기서 BibTeX 링크를 다시 클릭해 보겠습니다.
+
+![Citation](/assets/2018-04-08-computing-for-scieng-students-04/cite.png)
+
+Google Scholar가 생성해 준 이 논문의 BibTeX 정보입니다. 제가 갖고 있는 BibTeX 
+논문 정보와는 조금 다르긴 해도 대동소이 함을 볼 수 있습니다. 이렇게 학술
+데이터베이스들에서 만들어주는 BibTeX 데이터를 자신에 필요에 맞게 조금씩 고쳐서
+쓰시면 되겠습니다.
+
+```BibTeX
+@article{gode1993allocative,
+  title={Allocative efficiency of markets with zero-intelligence traders:
+Market as a partial substitute for individual rationality},
+  author={Gode, Dhananjay K and Sunder, Shyam},
+  journal={Journal of political economy},
+  volume={101},
+  number={1},
+  pages={119--137},
+  year={1993},
+  publisher={The University of Chicago Press}
+}
+```
+
+BibTeX의 구체적 사용 방법은 초심자 이상의 수준이라 이 포스팅에서는 더
+언급하지는 않겠습니다. 다만, 참고 문헌 관리 및 인용에 BibTeX이 유용하게
+쓰인다는 점은 꼭 기억해 두시기를 부탁드리겠습니다.
+
 ## LaTeX 관련 정보
 
-  * 책, 공짜 문서, ktug
-  * 서비스: ShareLaTeX
+자, 지금까지 이공계 문서 작성 도구로 중요한 위치를 차지하고 있는 LaTeX을
+개괄적으로 알아보았습니다. LaTeX은 간단한 수준으로 배울 수도 있지만 실제
+쓰다보면 참고할만한 자료가 필요합니다. 몇 가지 제 개인적으로 추천 자료를
+열거해 보겠습니다.
+
+### WikiBooks: LaTeX (https://en.wikibooks.org/wiki/LaTeX)
+
+WikiBooks의 무료 문서입니다. 여러 가지 예가 설명과 함께 잘 요약되어 있습니다.
+
+### The Not So Short Introduction To LaTeX (https://tobi.oetiker.ch/lshort/lshort.pdf)
+
+역시 무료 문서입니다. 제 개인적으로 WikiBooks: LaTeX과 함께 많이 참조했던
+가이드입니다.
+
+### Math Into LaTeX (http://mirrors.ibiblio.org/CTAN/info/mil/mil.pdf)
+
+자세한 설명히 필요한 분들에게 추천하는 책입니다. LaTeX의 세세한 부분까지 잘
+설명되어 있습니다. Chapter 1은 무료로 공개되어 있고 나머지 부분은 
+필요하시면 책을 구입해 읽으시면 되겠습니다.
+
+### ShareLaTeX (https://www.sharelatex.com)
+
+온라인 LaTeX 에디터 및 컴파일 서비스입니다. 굳이 리눅스 환경이나 다른 곳에서
+설치를 하지 않고도 웹 브라우저만을 이용해서 LaTeX을 쓸 수 있게 해 줍니다.
+상당히 잘 만들어진 서비스이구요. 추가로 돈을 지불하면 Dropbox 같은 서비스와
+연동도 가능합니다. 여러가지 문서 템플릿이 많은 것도 장점이고 기본 제공되는
+문서도 잘 쓰여져 있습니다.
+
+### 한국 TeX 사용자 그룹 (http://www.ktug.org)
+
+한국의 TeX 사용자 그룹입니다. 한글로 된 많은 문서와 한글을 LaTeX에서 쓸 때
+필요한 것들에 대한 정보가 잘 정리되어 있습니다. 
 
 ## 마치며
+ 
+오늘 포스팅에서는 문서 조판 시스템인 LaTeX을 쓰는 방법을 간단히
+알아보았습니다. 개인적으로 무엇보다도 강조하고 싶은 것은 LaTeX이나 
+Markdown을 이용한 글쓰기 습관의 필요성입니다. 글쓰기, 특히 논문과 같은 긴
+내용을 쓰는 것은 시간과 노력이 필요한 작업입니다. 이 과정에서 LaTeX과
+같은 도구가 짜임새를 갖춘 글쓰기 습관을 기르는데 많은 도움이 됩니다.
 
-문서도 컴퓨터 언어로 쓴다.
+그리고, LaTeX의 경우 수식 조판에 뛰어나기 때문에 수식이 많은 이공계 문서
+작성에 유용합니다. 아래아 한글이나 마이크로소프트 워드 역시 LaTeX과 비슷한
+수식 도구를 제공합니다만 수식이 복잡해지면 수식 렌더링(rendering)에 문제가
+생기는 경우가 많습니다. 게다가, 수식의 수가 많아지면 수식을 하나하나 인용을
+해야 하는데 이럴 때 LaTeX의 수식 인용 기능이 도움이 되겠습니다.
+
+LaTeX은 수식 이외에 그림이나 표, 참고문헌 역시 배치나 인용을 쉽게 할 수 있도록
+도와줍니다. 특히, 참고문헌 인용은 BibTeX을 이용하면 편리하고, BibTeX으로 마치
+mp3 컬렉션처럼 논문 정보 인덱스를 만들어 놓으면 연구 활동에도 많은 도움이
+됩니다.
+
+LaTeX을 웹 브라우저에서 편하게 써 보시고 싶은 분들께는 [ShareLaTeX
+서비스](https://www.sharelatex.com)를 추천합니다. 
+
+다음 포스팅에서는 프로그래밍으로 주제를 돌아가서 프로그래밍 언어의 최근 추세와
+어떻게 프로그래밍 언어를 배우는 것이 좋은지 알아보도록 하겠습니다.
+
