@@ -63,7 +63,7 @@ LaTeX의 경우, 명령어는 \로 시작을 하고 추가적인 명령은 {} �
 \documentclass{article}
 
 \begin{document}
-Hello, World
+Hello, World!
 \end{document}
 ```
 
@@ -113,7 +113,7 @@ Hello, World
 `pdflatex hello.tex` 명령어로 컴파일을 하면 다음과 같은 pdf 파일이 기본으로
 생성됩니다.
 
-![hello.pdf][/assets/2018-04-02-computing-for-scieng-students-04/hello-capture.png]
+![hello.pdf](/assets/2018-04-02-computing-for-scieng-students-04/hello-capture.png)
 
 ### 문서 기본 템플릿 (template)
 
@@ -136,7 +136,7 @@ LaTeX은 구조적인 글쓰기를 강제(?)하는 특성이 있습니다. 그�
 book, report, letter 등을 쓰실 수 있는데요. 한번 재미삼아 논문 스타일을 써
 볼까요? `\documentclass{IEEEtran}`을 쓰면 다음과 같은 pdf 출력이 나옵니다.
 
-![hello-ieeetran.pdf][/assets/2018-04-02-computing-for-scieng-students-04/hello-ieeetran-capture.png]
+![hello-ieeetran.pdf](/assets/2018-04-02-computing-for-scieng-students-04/hello-ieeetran-capture.png)
 
 다음에는 글 전체의 폰트를 바꾸어 보겠습니다. LaTeX에서 기본으로 지원하는
 폰트는 Computer Modern이라는 폰트인데 실제 출력을 해 보면 가독성이나 미적인
@@ -145,7 +145,7 @@ book, report, letter 등을 쓰실 수 있는데요. 한번 재미삼아 논문 
 
 문서 전체의 폰트를 바꾸는 것은 `\usepackage`명령을 사용합니다. 폰트 이외에
 다른 패키지도 많이 있는데요. (대표적인 것이 그림 넣기 관련 추가 기능을
-제공하는 graphicx 패키지 같은 것들입니다) 우선은 폰트만 한번 바꾸어 보겠습니다.
+제공하는 `graphicx` 패키지 같은 것들입니다) 우선은 폰트만 한번 바꾸어 보겠습니다.
 여러분들에게 친숙한 Times 폰트를 한번 써 볼까요? `\usepackage{times}` 명령을
 아래와 같이 넣어 줍니다. `charter`, `bookman` 같은 폰트도 넣어서 컴파일 해 보세요.
 최근에는 안드로이드 스마트폰에서 많이 쓰이는 `droid` 폰트 같은 것들도
@@ -160,7 +160,7 @@ book, report, letter 등을 쓰실 수 있는데요. 한번 재미삼아 논문 
 
 (이하 생략)
 ```
-![hello-times.pdf][/assets/2018-04-02-computing-for-scieng-students-04/hello-times-capture.png]
+![hello-times.pdf](/assets/2018-04-02-computing-for-scieng-students-04/hello-times-capture.png)
 
 LaTeX에서 기본으로 주는 여백이 너무 넓은 것 같은가요? `\usepackage{fullpage}`
 명령을 추가하면 되겠습니다.
@@ -176,19 +176,19 @@ LaTeX에서 기본으로 주는 여백이 너무 넓은 것 같은가요? `\usep
 (이하 생략)
 ```
 
-이런 식으로 LaTeX에서는 문서의 스타일을 내 마음대로 수정하기보다는 이미 만들어진 문서
-템플릿을 가져와 패키지를 써서 문서의 모양을 수정하는 쪽으로 문서 작성 방법을
-바꾸는 것이 좋겠습니다.
+이런 식으로 LaTeX에서는 문서의 스타일을 내 마음대로 수정하기보다는 이미
+만들어진 문서 템플릿을 가져와 패키지를 써서 문서의 모양을 수정하는 쪽으로 나의
+문서 작성 방법을 바꾸는 것이 좋겠습니다.
 
 이런 방식이 어떨 때 효과가 있을까요? 네. 여러 명이 모여서 책 같은 긴 문서를
-집필할 때 효과를 발휘합니다. 워드 프로세서를 쓰면 아무리 공통된 스타일을
+집필할 때 큰 효과를 발휘합니다. 워드 프로세서를 쓰면 아무리 공통된 스타일을
 만들고 템플릿 파일을 배포해봐도 사람마다 제각각의 폰트와 문단 정렬을 쓰기가
 일쑤입니다. 나중에 부분부분 파일을 모아서 하나로 만들려면 폰트와 문단 정렬만
 고치는 것도 큰 일이 되지요. 하지만 LaTeX을 쓰면 애초에 이렇게 하는 것이
 어렵습니다.
 
 전체적으로 줄여보면 LaTeX은 글쓰기의 기본에 집중할 수 있는 환경을 만들어 주는
-장점이 크다고 할 수 있겠습니다. 여러분들이 여기 SteemIt에서 쓰시는 Markdown도
+장점이 크다고 할 수 있겠습니다. 여러분들이 여기 스팀잇에서 쓰시는 Markdown도
 마찬가지 특성을 갖고 있다고 하겠습니다. 
 
 ### 수식 작성
@@ -226,7 +226,7 @@ LaTeX으로 컴파일 하면 다음과 같이 출력됩니다. 수식에 기본�
 다시 언급할 때 편리합니다. 물론, 수식 번호를 생략하는 명령어 옵션도
 있겠습니다.
 
-![Equations][/assets/2018-04-02-computing-for-scieng-students-04/equations-capture.png]
+![Equations](/assets/2018-04-02-computing-for-scieng-students-04/equations-capture.png)
 
 
 #### equation reference
