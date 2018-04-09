@@ -2,7 +2,7 @@
 layout: post
 title:  "이공계 대학생/대학원생을 위한 컴퓨팅 강좌 3: 리눅스(Linux)에서
 프로그램을 만들어 보자"
-date:   2018-03-28 22:30:00 -0500
+date:   2018-04-02 22:30:00 -0500
 published: yes
 categories: 강좌
 ---

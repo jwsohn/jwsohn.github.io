@@ -2,7 +2,7 @@
 layout: post
 title:  "이공계 대학생/대학원생을 위한 컴퓨팅 강좌 4: 이공계 문서 작성의
 필수 도구 - LaTeX에 대해 알아보자"
-date:   2018-04-08 22:30:00 -0500
+date:   2018-04-05 22:30:00 -0500
 published: yes
 categories: 강좌
 ---
