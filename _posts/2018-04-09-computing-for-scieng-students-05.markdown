@@ -2,7 +2,7 @@
 layout: post
 title:  "이공계 대학생/대학원생을 위한 컴퓨팅 강좌 5:"
 date:   2018-04-09 22:30:00 -0500
-published: no
+published: yes
 categories: 강좌
 ---
 
@@ -20,8 +20,6 @@ categories: 강좌
 
 ### 기본은 탄탄히
 
-![data structures](/assets/2018-04-09-computing-for-scieng-students-05/data-structures.jpg)
- 
 프로그래밍 혹은 코딩 작업은 컴퓨터를 사용하는 작업입니다. 따라서, 코딩을
 하려면 디지털 컴퓨터라는 기계에 대한 기본적인 이해가 있어야 할 것이고,
 일반적인 컴퓨터 언어의 설계와 자주 쓰이는 기법에 대해서도 이해가 있어야 할
@@ -40,6 +38,8 @@ categories: 강좌
 컴퓨터 프로그래밍 기법의 가장 기본을 다루고 있기 때문입니다.
 
 ### 자료구조론 학습을 위한 컴퓨터 언어
+
+![data structures](/assets/2018-04-09-computing-for-scieng-students-05/data-structures.jpg)
 
 그러면 프로그래밍의 기초를 다지기 위한 컴퓨터 언어는 어떻게 선택하는 게
 좋을까요? 자료구조론을 배우기 좋은 언어는 특별한 것은 없습니다. 다만, 2018년
