@@ -64,6 +64,7 @@ print "Hello, world!"
 그런데 이 다음부터 제각각이 됩니다. 변수 (variable)에 이름을 줘 볼까요? Java는
 lowerCamelCase 형식을 따르고 Python은 snake_case를 따릅니다. 
 
+Java:
 ```java
 public class HelloWorld
 {
@@ -75,6 +76,7 @@ public class HelloWorld
 }
 ```
 
+Python:
 ```python
 #!/usr/bin/env python
 
@@ -104,6 +106,7 @@ World!";`와 같은 표현을 쓰는 것은 지양한다는 것이죠.
 화면에 출력하는 프로그램을 만들어 보죠. 변수 `i`를 0부터 시작해서 10보다 작은
 경우 계속 1 씩 증가시키며 `System.out.println(i);`를 실행하는 코드입니다.
 
+Java:
 ```java
 public class PrintNumbers
 {
@@ -115,7 +118,6 @@ public class PrintNumbers
         }
     }
 }
-
 ```
 
 여기서 `for (int i = 0; i < 10; ++i)` 부분을 보겠습니다. 컴파일러 입장에서는
@@ -132,7 +134,7 @@ public class PrintNumbers
 짠 코드와 내 코드를 섞을 때** 같은 코딩 스타일을 쓰는 것이 얼마나 생산성을
 향상시키는 가도 나중에 꼭 경험해 보시기 바랍니다.
 
-참고로 가장 많이 쓰이는 Java와 Python의 코딩 스타일 가이드를 링크해 봅니다.
+참고로 많이 쓰이는 Java와 Python의 코딩 스타일 가이드를 링크해 봅니다.
 
   * [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
   * [Python pep8 style guide](http://pep8.org)
@@ -166,11 +168,11 @@ integrated development environment)을 쓰는 경우가 많은 것 같습니다.
 명령어 모드를 구분하기 때문인데요. `i` 키를 눌러 명령어 모드에서 편집 모드로
 진압해야 타이핑이 가능하겠습니다.
 
-![hjkl keys in vi](/assets/2018-04-14-computing-for-scieng-students-06/hjkl.jpg)
-
 명령어 모드에 대해 간단히 설명을 드리면 이렇습니다. `vim`에서는 커서 이동키가
 `h`, `j`, `k`, `l` 입니다. 그러니까 같은 `j`라도 명령어 모드에서는 아랫쪽
 커서키가 되고 편집 모드에서는 j 글자가 되는 것이죠. 
+
+![hjkl keys in vi](/assets/2018-04-14-computing-for-scieng-students-06/hjkl.jpg)
 
 이런 `vim`에서 명령어 모드와 편집 모드의 구분은 조금만 습관이 되시면 아주
 편리해지는 기현상(?)을 경험하실 수 있습니다. 일례로 `j`, `k` 키로 커서를
@@ -183,8 +185,8 @@ integrated development environment)을 쓰는 경우가 많은 것 같습니다.
 제가 기초 이상을 잘 모르는 까닭에 일단 소개만으로 그치겠습니다.
 
 참고로 리눅스 명령어 프롬프트에서 커서 이동 명령은 `emacs` 단축기를
-이용합니다. `ctrl-a`가 Home 키 역할을, `ctrl-e`가 End 키 역할을 합니다.
-`ctrl-p`는 위쪽 화살표 키 역할, `ctrl-n`은 아랫쪽 화살표 키 역할입니다.
+이용합니다. ctrl-a가 Home 키 역할을, ctrl-e가 End 키 역할을 합니다.
+ctrl-p는 위쪽 화살표 키 역할, ctrl-n은 아랫쪽 화살표 키 역할입니다.
 
 그리고 Python을 쓰시는 분들은 에디터에 추가해서 Python 명령어 한 줄 단위로
 바로바로 실행시켜볼 수 있는 인터프리터(interpreter) 역시 중요하겠지요. 기본으로
@@ -200,11 +202,9 @@ integrated development environment)을 쓰는 경우가 많은 것 같습니다.
 소스코드 전체에 걸쳐서 자동으로 고쳐주는 refactoring 같은 기능은 통합환경을
 써야 편리하게 이용할 수 있으니까요.
 
-## 다른 개발자와 같이 일하기 (collaboration)
-
-### 개발 문서 작성하기 (documentation writing)  
-
-#### 주석(comment)을 달자
+## 다른 개발자와의 협업(collaboration)
+ 
+### 개발 문서 작성하기: 주석(comment)을 달자
 
 주석(comment)의 바른 예: [출처](https://www.tutorialspoint.com/java/java_documentation.htm)
 
@@ -232,26 +232,26 @@ public class HelloWorld
 
 우선, 소스 코드 내부에 주석(comment)을 많이 다는 습관을 들이셔야 합니다.
 최고의 comment는 잘 만든 소스 코드라는 얘기가 있기는 하지만 그 정도의 고품질
-소스 코드를 만들어 내는 사람들은 지극히 드뭅니다. 따라서, 설명이 필요할 때마다
-comment를 다는 습관을 들이는 것이 좋습니다.
+소스 코드를 만들어 내는 사람들은 지극히 드뭅니다. 따라서, 기본적으로 설명이
+필요할 때마다 comment를 다는 습관을 들이는 것이 좋습니다.
 
 코딩을 하다 보면 누구나 경험하게 되는 것이 이렇습니다. 일이년 정도 지나서
 자신이 짠 소스 코드를 보면 감이 오질 않습니다. 이럴 때 comment도 없으면
-난감하죠. 내가 짠 코드를 내가 못 알아보는 황당한 상황이 전개되니까요. 하지만,
-사람은 망각의 동물입니다. 내가 쓴 코드를 잘 활용하려면 comment를 잘 다는 것이
-일상이 되어야 합니다. 하물며 남이 보게 될 코드라면 더더욱 comment에 신경을
-써야 하겠지요.
+난감하죠. 정말로 내가 짠 코드를 내가 못 알아보는 황당한 상황이 전개되니까요.
+하지만, 사람은 망각의 동물입니다. 내가 쓴 코드를 잘 활용하려면 comment를 잘
+다는 것이 일상이 되어야 합니다. 하물며 남이 보게 될 코드라면 더더욱 comment에
+신경을 써야 하겠지요.
 
-#### GitHub.com
+### GitHub.com을 사용하자
 
 ![Github.com](/assets/2018-04-14-computing-for-scieng-students-06/github.jpg)
 
-그 다음으로 GitHub.com에 내 프로젝트 페이지를 오픈해서 개발 문서를 써 보기를
-추천합니다. 개발 문서라고 해 봐야 프로젝트 소개 문서인 Readme.md(md는
-markdown의 줄임입니다)를 쓰는 것이 대부분이겠습니다만 *다른 사람이 읽어볼
-필요*가 있는 개발 문서를 작성해 본다는 것에 큰 의미가 있습니다. 게다가,
-GitHub의 문서 포맷은 기본적으로 스팀잇과 동일한 markdown을 사용합니다. 오히려
-스팀잇 사용자 여러분들이 적응하기 좋은 환경이죠.
+그 다음으로 오픈 소스 프로젝트 호스팅 서비스인 GitHub.com에 내 프로젝트
+페이지를 개설한 다음 개발 문서를 써 보기를 추천합니다. 처음에는 개발 문서라고
+해도 프로젝트 소개인 Readme.md(md는 markdown의 줄임입니다)를 쓰는 것이
+대부분이겠습니다만 **다른 사람이 읽어볼 필요**가 있는 개발 문서를 작성해
+본다는 것에 큰 의미가 있습니다. 게다가, GitHub의 문서 포맷은 기본적으로
+스팀잇과 동일한 markdown을 사용합니다. 
 
 GitHub.com에 프로젝트 페이지를 오픈하기 위해서는 소스 코드 버전 관리를
 담당하는 `git` 명령어 사용방법을 배워야 합니다. `git` 명령으로 소스코드를
@@ -262,27 +262,24 @@ GitHub.com에 프로젝트 페이지를 오픈하기 위해서는 소스 코드 
 있습니다.
 
 GitHub 사용 방법 강좌로는 아래 링크를 추천합니다. 
+
   * [GitHub For Beginners: Don’t Get Scared, Get Started](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
 
-### GitHub.com에 올라와 있는 오픈 소스 프로젝트 써보기
+## 마치며
 
-  * Comments
-  * GitHub
-    - start from writing Readme.md
-  * markdown especially good for coding documentations
-    - github.io
+지금까지 코딩을 배우는데 도움이 되는 습관과 여기에 필요한 도구들에 대해 간단히
+알아봤습니다. 전체적으로 코딩 스타일과 같이 코딩에 직접적으로 연관이 되는
+습관과 개발 도큐먼트 작성과 같이 코딩을 도와주는 습관으로 나눌 수 있겠습니다.
 
-### Code sharing: open source project
-  * Open source project: 남의 코드 고쳐 써 보기
-  * Github again
-  * Use git: 과거에는 patch
+적절한 코딩 스타일을 갖춘 코드를 작성하는데는 개발 도구의 도움이 필요한데요.
+처음 시작하실 때는 Eclipse와 같은 통합환경(integrated development
+environment)보다 터미널 모드에서 vim이나 emacs 에디터를 써서 코딩을 하기를
+추천드립니다. 
 
-## Statistics
-  * 5xx level graduate courses
-  * important concepts: distributions, independence, dependence, joint
-    probability, conditional probability
-  * Data mining
-  * Basic Stat theory
-  * Mathematics
-    * Linear algebra
+개발 문서 작성과 소스코드 버전 관리를 위해서는 github.com에 프로젝트를
+개설하고 `git` 명령을 이용해서 소스코드 관리를 하는 습관을 들이는 것을
+추천합니다. 장기적으로 github.com에 올라와 있는 다른 개발자들과
+협업(collaboration)을 하는 방법을 처음부터 습득할 수 있겠습니다.
+
+읽어 주셔서 감사합니다. 다음 글에서 또 뵙겠습니다.
 
