@@ -2,7 +2,7 @@
 layout: post
 title:  "이공계 대학생/대학원생을 위한 컴퓨팅 강좌 6: 코딩에 필요한 통계학, 수학, 영어"
 date:   2018-04-18 22:30:00 -0500
-published: no
+published: yes
 categories: 강좌
 ---
 
