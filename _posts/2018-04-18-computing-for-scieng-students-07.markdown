@@ -165,14 +165,14 @@ Economist는 정말 기사는 잘 쓰는 데 그만큼 읽기도 신경써야 �
 
 ### StackExchange 서비스의 코딩 질문/답변
 
-![StackOverflow](/assets/2018-04-18-computing-for-scieng-students-07/stackoverflow.png)
+![StackOverflow](/assets/2018-04-18-computing-for-scieng-students-07/stack-overflow.png)
 
-StackExchange (https://stackexchange.com/sites#)가 있기 전에는 어떻게 코딩을
+StackExchange (https://stackexchange.com/sites#) 가 있기 전에는 어떻게 코딩을
 했을까요? 코딩에 대한 왠만한 질문들은 이미 다 답변이 잘 정리되어 있는 곳이
 StackExchange입니다.
 
 특히, 구체적으로 코딩에 관한 질문들은 이곳에서도 StackOverflow.com
-(http://stackoverflow.com)에 올라옵니다. 적당히 키워드만 잘 넣어도 구글이
+(http://stackoverflow.com) 에 올라옵니다. 적당히 키워드만 잘 넣어도 구글이
 알아서 StackOverflow.com의 해당 Q&A를 잘 찾아 줍니다. 혹시 잘 안찾아지면
 입력할 키워드 다음에 `stackoverflow` 단어만 하나 더 붙이면 웬만한 경우 내가
 찾는 질문과 그에 대한 답변이 나옵니다. 
