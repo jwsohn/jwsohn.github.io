@@ -2,7 +2,7 @@
 layout: post
 title:  "이공계 대학생/대학원생을 위한 컴퓨팅 강좌 8: 코딩용 고정폭 폰트(fixed-width font) 선택하기"
 date:   2018-05-01 22:30:00 -0500
-published: no
+published: yes
 categories: 강좌
 ---
 
