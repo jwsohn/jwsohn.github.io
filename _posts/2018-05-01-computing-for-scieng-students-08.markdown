@@ -107,7 +107,7 @@ Incosolata에서 말씀드렸듯이 Microsoft의 Office나 Visual Studio 패키�
 
 ### Cousine font
 
-![Consolas](/assets/2018-05-01-computing-for-scieng-students-08/consolas.png)
+![Cousine](/assets/2018-05-01-computing-for-scieng-students-08/cousine.png)
 
 Chrome OS의 Core 폰트 시리즈에 포함되어 배포되는 고정폭 폰트입니다. Courier
 new와의 자간 metric 호환에 신경을 썼다고 합니다. Chromebook을 쓰면 디폴트로
