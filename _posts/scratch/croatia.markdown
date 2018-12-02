@@ -18,4 +18,6 @@
           anything to do in this tourist city.
         - Winter in eastern europe: much rain. We were lucky to have only one
           rainy day during a whole week of travel.
+        - Split as harbor: reduced ferry schedule. No access to Hvar and other
+          Dalmatian islands.
 
