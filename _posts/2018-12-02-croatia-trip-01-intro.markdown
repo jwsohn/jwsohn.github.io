@@ -55,9 +55,9 @@ categories: 여행
 
 본 아재가 헛갈려 하는 부분은 이렇습니다. 그렇다면 크로아티아의 정체성은
 무엇일까 하는 점인데요. 크로아티아는 특이하게 지방(Region)마다 자기 정체성의
-특성이 아주 강합니다. 크로아티아는 아래의 [5개의
+특성이 강합니다. 크로아티아는 아래의 [4개의
 지방](https://en.wikipedia.org/wiki/Regions_of_Croatia)이 연합을 이루고
-있습니다. 잠깐 지도를 참고하지요.
+있습니다. 잠깐 지도를 참고해 보겠습니다.
 
 ![Croatia regions](/assets/2018-12-02-croatia-trip-01-intro/croatia-regions.png)
 
