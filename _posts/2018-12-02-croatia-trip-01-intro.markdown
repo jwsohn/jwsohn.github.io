@@ -10,7 +10,9 @@ categories: 여행
 
 ## 크로아티아 여행기를 시작하면서
 
-[크로아티아 국기 사진]
+![크로아티아 국기](/assets/2018-12-02-croatia-trip-01-intro/croatia-flag.jpg)
+![크로아티아 넥타이](/assets/2018-12-02-croatia-trip-01-intro/croatia-necktie.jpg)
+![걸어가는 아재들](/assets/2018-12-02-croatia-trip-01-intro/ajaedul.jpg)
 
 안녕하세요. @jwsohn입니다. 오랫만에 아재들의 여행기를 다시 연재하게
 되었습니다. 이번 아재들의 시즌 4 여행은 크로아티아였는데요. 아재들과 저는
@@ -96,6 +98,11 @@ categories: 여행
 자그레브는 크로아티아의 수도이며 중앙 크로아티아 지역을 대표하는 곳입니다.
 중세 시대의 도시 원형이 여전히 구 시가지에 보존되어 있으며 자그레브 대성당과
 같은 건물들이 유명합니다.
+
+![자그레브 대성당](/assets/2018-12-02-croatia-trip-01-intro/zagreb-cathedral-outside.jpg)
+![자그레브 대성당](/assets/2018-12-02-croatia-trip-01-intro/zagreb-cathedral.jpg)
+![반 옐라치치 동상](/assets/2018-12-02-croatia-trip-01-intro/zagreb-ban-jelacic.jpg)
+![성 마르코 성당](/assets/2018-12-02-croatia-trip-01-intro/zagreb-saint-mark-cathedral.jpg)
 
 ### 플리트비체 국립공원 (Plitvice national park)
 
