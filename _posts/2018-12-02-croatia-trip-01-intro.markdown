@@ -62,8 +62,8 @@ categories: 여행
 
   * 중앙 크로아티아 (Croatia proper)
   * 달마티아 (Dalmatia)
-  * 이스트리아 (Istria)
   * 슬라보니아 (Slavonia)
+  * 이스트리아 (Istria)
 
 여기서 아재들이 여행을 거쳐 간 곳들은 수도 자그레브(Zagreb)로 대표되는 중앙
 크로아티아, 로마 디오클레티안(Diocletian) 황제의 휴양지 궁전이 있는 도시
