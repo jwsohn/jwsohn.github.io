@@ -58,7 +58,7 @@ categories: 여행
 지방](https://en.wikipedia.org/wiki/Regions_of_Croatia)이 연합을 이루고
 있습니다. 잠깐 지도를 참고하지요.
 
-[지도 첨부]
+![Croatia regions](/assets/2018-12-02-croatia-trip-01-intro/croatia-regions.png)
 
   * 중앙 크로아티아 (Croatia proper)
   * 달마티아 (Dalmatia)
