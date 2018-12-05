@@ -115,6 +115,11 @@ categories: 여행
 알맞을까요. 말 그대로 청록색을 발하는 물빛과 주변 계곡이 참으로 아름다운
 곳입니다. 
 
+![Plitvice](/assets/2018-12-02-croatia-trip-01-intro/plitvice-1.jpg)
+![Plitvice](/assets/2018-12-02-croatia-trip-01-intro/plitvice-2.jpg)
+![Plitvice](/assets/2018-12-02-croatia-trip-01-intro/plitvice-3.jpg)
+![Plitvice](/assets/2018-12-02-croatia-trip-01-intro/plitvice-4.jpg)
+
 ### 스플리트(Split)
 
 스플리트부터는 무려 로마 시대의 유적을 감상할 수 있는데요. 특이한 점은 로마
@@ -122,6 +127,11 @@ categories: 여행
 스플리트부터는 달마티아 지역의 특색이 잘 나타나기 시작합니다. 와인을
 좋아하시는 분들은 여기서부터 달마티아 와인이라는 용어가 눈에 띄기 시작하실
 겁니다.
+
+![Split](/assets/2018-12-02-croatia-trip-01-intro/split-roman.jpg)
+![Street](/assets/2018-12-02-croatia-trip-01-intro/split-street.jpg)
+![Diocletian palace](/assets/2018-12-02-croatia-trip-01-intro/split-diocletian.jpg)
+![View of Split](/assets/2018-12-02-croatia-trip-01-intro/split-view.jpg)
 
 ### 두브로브니크(Dubrovnik)
 
@@ -132,6 +142,12 @@ categories: 여행
 게임(Game of Throne)" 촬영지로서도 유명합니다. 마침 아재들이 두브로니크를
 방문했을 때는 운좋게 날씨도 청명했는데요. 앞으로 아드리아 해의 눈부신 태양과
 파란 하늘을 생각하면 자연히 두브로브니크가 떠오르게 될 것 같습니다. 
+
+![Dubrovnik](/assets/2018-12-02-croatia-trip-01-intro/dubrovnik-wall.jpg)
+![Onoforio's Fountain](/assets/2018-12-02-croatia-trip-01-intro/dubrovnik-fountain.jpg)
+![Stradun](/assets/2018-12-02-croatia-trip-01-intro/dubtovnik-stradun.jpg)
+![Gate](/assets/2018-12-02-croatia-trip-01-intro/dubrovnik-gate.jpg)
+![Port](/assets/2018-12-02-croatia-trip-01-intro/dubrovnik-port.jpg)
 
 ## 참고: tvN 방영 "꽃보다 누나" --- 크로아티아 편
 
