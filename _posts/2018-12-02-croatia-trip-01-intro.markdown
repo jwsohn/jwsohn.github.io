@@ -145,7 +145,7 @@ categories: 여행
 
 ![Dubrovnik](/assets/2018-12-02-croatia-trip-01-intro/dubrovnik-wall.jpg)
 ![Onoforio's Fountain](/assets/2018-12-02-croatia-trip-01-intro/dubrovnik-fountain.jpg)
-![Stradun](/assets/2018-12-02-croatia-trip-01-intro/dubtovnik-stradun.jpg)
+![Stradun](/assets/2018-12-02-croatia-trip-01-intro/dubrovnik-stradun.jpg)
 ![Gate](/assets/2018-12-02-croatia-trip-01-intro/dubrovnik-gate.jpg)
 ![Port](/assets/2018-12-02-croatia-trip-01-intro/dubrovnik-port.jpg)
 
