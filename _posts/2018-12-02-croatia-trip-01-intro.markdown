@@ -2,7 +2,7 @@
 layout: post
 title:  "아재 셋의 크로아티아 여행기 1편 - 여행 소개"
 date:   2018-12-02 22:30:00 -0500
-published: no
+published: yes
 categories: 여행
 ---
 
